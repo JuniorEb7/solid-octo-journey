@@ -2849,3 +2849,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [21Apr2025 03:43:23.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-537, y=100, z=-72}
 [21Apr2025 03:43:42.437] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED bc629600-80e5-4f7c-b75f-b01017a8cca5
 [21Apr2025 03:44:16.737] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED 5b9e8617-3c1c-4b46-9231-92ea77cf492e
+[21Apr2025 03:47:07.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-528, y=98, z=-76} BlockPos{x=-538, y=99, z=-75}
+[21Apr2025 03:49:08.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-528, y=98, z=-76} BlockPos{x=-541, y=92, z=-49}
+[21Apr2025 03:49:10.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-528, y=98, z=-76} BlockPos{x=-541, y=92, z=-49}
+[21Apr2025 03:49:11.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-528, y=98, z=-76} BlockPos{x=-541, y=91, z=-49}
+[21Apr2025 03:54:28.595] [Server thread/WARN] [tombstone/]: The death event of the player Alejandrotuchero was canceled by another mod
+[21Apr2025 03:54:28.601] [Server thread/INFO] [tombstone/]: The player Alejandrotuchero has successfully been saved

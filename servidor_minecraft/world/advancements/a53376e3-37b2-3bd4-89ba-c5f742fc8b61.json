@@ -481,7 +481,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-21 03:44:42 +0000",
       "cooked_beef": "2025-04-20 18:06:10 +0000",
+      "bread": "2025-04-21 03:54:08 +0000",
       "rotten_flesh": "2025-04-20 18:04:42 +0000"
     },
     "done": false
@@ -921,6 +923,36 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/dead_sign": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-21 03:42:53 +0000"
@@ -933,15 +965,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-21 03:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-21 03:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-21 03:44:05 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-21 03:45:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2025-04-21 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-21 03:45:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2025-04-21 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-04-21 03:42:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-21 03:53:19 +0000"
     },
     "done": true
   },

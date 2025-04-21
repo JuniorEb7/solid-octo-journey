@@ -481,6 +481,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-21 03:43:21 +0000"
@@ -507,6 +513,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-04-21 03:44:40 +0000",
       "minecraft:zombie": "2025-04-21 03:42:42 +0000"
     },
     "done": false
@@ -529,15 +536,33 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-21 03:43:21 +0000"
     },
     "done": true
   },
+  "cgm:recipes/combat/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-21 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
     },
     "done": true
   },
@@ -550,6 +575,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-21 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
     },
     "done": true
   },
@@ -595,6 +626,24 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/shell": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-21 03:47:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-04-21 03:43:21 +0000"
@@ -625,9 +674,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-21 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:45:12 +0000"
     },
     "done": true
   },
