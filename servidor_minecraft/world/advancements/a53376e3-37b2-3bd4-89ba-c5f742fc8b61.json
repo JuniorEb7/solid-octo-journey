@@ -962,6 +962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-21 05:31:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_button": {
     "criteria": {
       "has_planks": "2025-04-21 03:53:19 +0000"
@@ -1346,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-21 05:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-21 04:48:06 +0000"
@@ -1595,6 +1607,12 @@
   "additionalguns:recipes/additionalguns/pp_19": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 04:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-21 05:31:52 +0000"
     },
     "done": true
   },
