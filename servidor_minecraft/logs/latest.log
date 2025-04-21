@@ -3457,3 +3457,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [21Apr2025 04:24:23.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 92d19a8b-7f21-3fb7-99d5-013edd24e0c4
 [21Apr2025 04:24:24.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 92d19a8b-7f21-3fb7-99d5-013edd24e0c4
 [21Apr2025 04:24:24.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Charlie1995 (92d19a8b-7f21-3fb7-99d5-013edd24e0c4) successfully connected to voice chat
+[21Apr2025 04:24:47.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-553, y=96, z=-65}
+[21Apr2025 04:24:48.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-552, y=96, z=-63}
+[21Apr2025 04:26:25.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 has made the advancement [Magic Writing]
+[21Apr2025 04:27:44.094] [Server thread/WARN] [tombstone/]: The death event of the player Alejandrotuchero was canceled by another mod
+[21Apr2025 04:27:44.096] [Server thread/INFO] [tombstone/]: The player Alejandrotuchero has successfully been saved
+[21Apr2025 04:28:53.075] [Server thread/WARN] [tombstone/]: The death event of the player Alejandrotuchero was canceled by another mod
+[21Apr2025 04:28:53.077] [Server thread/INFO] [tombstone/]: The player Alejandrotuchero has successfully been saved
+[21Apr2025 04:30:11.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 has made the advancement [Stone Age]
+[21Apr2025 04:30:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 has made the advancement [Getting an Upgrade]
+[21Apr2025 04:33:36.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 has made the advancement [Ashes 'n Bones]
