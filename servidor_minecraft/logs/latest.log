@@ -3387,3 +3387,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 05:34:01.413] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 8e8a4c9d-0631-4610-8306-0a423b0d4c77
 [22Apr2025 05:34:15.911] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 7bf0f2c4-4946-419b-8307-1556c64adc5d
 [22Apr2025 05:34:45.561] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED ff95b276-0102-4e42-8271-da50c85df261
+[22Apr2025 05:37:57.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PedroZ510 lost connection: Disconnected
+[22Apr2025 05:37:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 left the game
+[22Apr2025 05:37:57.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PedroZ510
+[22Apr2025 05:45:15.410] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 8970d172-3439-4119-810e-e1c35c182014
+[22Apr2025 05:46:08.656] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 30 DISCARDED 47ba5999-617a-44c5-b820-dbdee1a8b072
+[22Apr2025 05:46:18.107] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 29 DISCARDED 98d7a75d-cb93-46a8-b67a-97ea6acc6108
+[22Apr2025 05:46:18.523] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 DISCARDED 76354b23-d4cd-489f-93ae-648ce891ef0b
+[22Apr2025 05:46:21.905] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 DISCARDED a2263927-c5ba-4336-97ab-a5f8b049d352
+[22Apr2025 05:46:22.105] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 DISCARDED b249b5f9-a7eb-453f-a4ef-bd6d44e12a56
+[22Apr2025 05:46:24.255] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 DISCARDED f7db140d-b030-4b32-b5a5-0da1581cddc1
+[22Apr2025 05:46:29.455] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 DISCARDED 5c1bef50-631a-42ee-844f-6252dba64712
+[22Apr2025 05:46:30.005] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 DISCARDED b38ada15-978c-4856-aba0-af53be89435e
+[22Apr2025 05:46:30.806] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 DISCARDED ab9e868f-b587-40b4-af6f-6da527da0348
+[22Apr2025 05:46:31.557] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 DISCARDED b2fda4ea-a0c6-4f2d-acaa-ab58c4f6afcc
+[22Apr2025 05:46:35.464] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 DISCARDED 60f8a8a7-6ccc-4734-9fd3-4d6fc1ea9d9d
+[22Apr2025 05:46:35.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 DISCARDED ec9ce248-5ca8-4eca-8dfc-73fced980526
+[22Apr2025 05:46:37.355] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 DISCARDED 2853377c-7c1b-4190-9520-89b1c51ef8ed
+[22Apr2025 05:46:37.956] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 DISCARDED 8e95175a-e218-4052-a875-b9d47de32db4
+[22Apr2025 05:46:38.581] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 DISCARDED e524b5d3-1d82-48bc-8fab-d73220527938
+[22Apr2025 05:46:39.406] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 DISCARDED 3b26277a-1fb6-4f80-8527-948b70b14174
+[22Apr2025 05:46:40.455] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 DISCARDED bd94a9f2-4ce6-4738-b22b-82392047a97b
+[22Apr2025 05:46:44.655] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 DISCARDED 0ebaf61f-7a7e-4616-ba16-89da1a86cdbb
+[22Apr2025 05:46:45.205] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 DISCARDED c1dad216-b90a-47e5-b9a4-00a477c72027
+[22Apr2025 05:46:53.806] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 DISCARDED 8a54d507-ca3c-4dde-b530-b1f9dac55367
+[22Apr2025 05:46:54.504] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 DISCARDED a8e1724e-3dac-4c94-a4bc-21e08b052331
+[22Apr2025 05:46:58.606] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 DISCARDED e20e19cf-2036-46b8-8b29-3a8fdc65d28f
+[22Apr2025 05:47:00.305] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 DISCARDED b51fa349-d206-47e0-ba80-9ffd6582dc43
+[22Apr2025 05:47:02.905] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 DISCARDED 9ea3e3c4-5689-4b2c-9312-66173d416aac
+[22Apr2025 05:47:06.904] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 DISCARDED 903df976-14a8-49fc-a5c9-323595017a85
+[22Apr2025 05:47:09.654] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 DISCARDED 595b0197-df23-45fe-b62c-0059e4ed7300
+[22Apr2025 05:47:11.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 DISCARDED 077ce63f-2461-4a66-a8b8-cbf754eb310b
