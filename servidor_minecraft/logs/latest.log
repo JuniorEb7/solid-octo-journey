@@ -3494,3 +3494,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 05:55:49.307] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [22Apr2025 05:55:49.307] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
 [22Apr2025 05:57:19.707] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 KILLED 74a48bdb-3cb9-4dd3-8cb4-0f36b89ab168
+[22Apr2025 05:57:59.107] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 DISCARDED 376256b5-ac80-4378-a7b1-ed94c1a29100
+[22Apr2025 05:58:11.657] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 KILLED 74f1217e-d1e7-4818-b0a3-2e66b0faaa8c
+[22Apr2025 05:58:18.257] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 DISCARDED 13d9c8d1-1889-4664-ae3c-473ac1b35fb0
