@@ -3130,3 +3130,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 04:33:07.647] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
 [22Apr2025 04:35:05.808] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 697548f6-d6d6-4f2c-b8c6-9ae9798a709f
 [22Apr2025 04:35:17.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Who You Gonna Call?]
+[22Apr2025 04:39:06.807] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED bd2e7482-2e35-47bd-a842-7554afac0a10
+[22Apr2025 04:42:18.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejandrotuchero has made the advancement [Take Aim]
