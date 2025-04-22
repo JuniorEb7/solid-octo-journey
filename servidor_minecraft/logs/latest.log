@@ -3497,3 +3497,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 05:57:59.107] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 DISCARDED 376256b5-ac80-4378-a7b1-ed94c1a29100
 [22Apr2025 05:58:11.657] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 KILLED 74f1217e-d1e7-4818-b0a3-2e66b0faaa8c
 [22Apr2025 05:58:18.257] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 DISCARDED 13d9c8d1-1889-4664-ae3c-473ac1b35fb0
+[22Apr2025 06:17:50.349] [Server thread/WARN] [cgm/]: literal{Charlie1995}(92d19a8b-7f21-3fb7-99d5-013edd24e0c4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 06:17:51.404] [Server thread/WARN] [cgm/]: literal{Charlie1995}(92d19a8b-7f21-3fb7-99d5-013edd24e0c4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 06:17:59.172] [Server thread/WARN] [cgm/]: literal{Charlie1995}(92d19a8b-7f21-3fb7-99d5-013edd24e0c4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[22Apr2025 06:18:04.558] [Server thread/WARN] [cgm/]: literal{Charlie1995}(92d19a8b-7f21-3fb7-99d5-013edd24e0c4) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[22Apr2025 06:18:36.608] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 KILLED 52c3e051-59d7-4d53-8542-376ec2dad1d7
+[22Apr2025 06:19:27.263] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 DISCARDED 90cd6f7d-2dc9-497b-a929-d644d90cf03a
+[22Apr2025 06:19:30.657] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 DISCARDED b7891d6f-9057-4640-b810-ec13986dd007
+[22Apr2025 06:19:42.857] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 DISCARDED 12a8a3d0-9d3b-485b-ae52-46697dd9484c
+[22Apr2025 06:19:49.706] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 DISCARDED e64d34fb-42a4-40bd-aee8-b3946f875515
+[22Apr2025 06:19:50.256] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 DISCARDED c07104c9-c066-4e58-9abc-c224f0f61610
+[22Apr2025 06:20:54.155] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 DISCARDED c43cf8a8-4cb0-4c28-b371-10b086e9017d
+[22Apr2025 06:21:13.655] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 DISCARDED db692cc6-975c-41e7-a197-81dc46e7a7eb
+[22Apr2025 06:21:19.286] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Alejandrotuchero just tried to change non-editable sign
+[22Apr2025 06:21:22.707] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 DISCARDED 3b9ece02-0b15-4a8f-93b3-4656e72fea9e
+[22Apr2025 06:22:05.872] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 DISCARDED 2e3b91b4-75ba-4e77-a07e-1cbf8a8811e3
+[22Apr2025 06:22:31.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charlie1995 lost connection: Disconnected
+[22Apr2025 06:22:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 left the game
+[22Apr2025 06:22:31.610] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Charlie1995
+[22Apr2025 06:22:32.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alejandrotuchero lost connection: Disconnected
+[22Apr2025 06:22:32.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alejandrotuchero left the game
+[22Apr2025 06:22:32.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alejandrotuchero
+[22Apr2025 06:22:32.854] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 UNLOADED_TO_CHUNK 648071b3-ff13-4c0c-84bf-c99c554906e1
+[22Apr2025 06:22:32.854] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 UNLOADED_TO_CHUNK e3e85ab2-d6b7-4eaa-b4e4-9c8cb6a03b03
+[22Apr2025 06:22:32.854] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 UNLOADED_TO_CHUNK ca1b9c3e-a254-4967-9c36-06ea15c23200
+[22Apr2025 06:22:32.854] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 UNLOADED_TO_CHUNK 75134664-4a3f-4d89-8cad-58208366ddf9
+[22Apr2025 06:22:32.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 UNLOADED_TO_CHUNK 4dad6dce-d864-4c6a-8b26-24d6335d4a4f
+[22Apr2025 06:22:32.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 UNLOADED_TO_CHUNK 0f2fd48b-293f-4376-997a-b9f79d24f5ff
+[22Apr2025 06:22:32.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 UNLOADED_TO_CHUNK cb9926c7-b5d3-4955-be93-e7ddb823474f
+[22Apr2025 06:22:32.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 UNLOADED_TO_CHUNK 63092213-682b-4b5c-9383-13a020b98471
+[22Apr2025 06:22:32.855] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 UNLOADED_TO_CHUNK 8970d172-3439-4119-810e-e1c35c182014
