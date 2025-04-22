@@ -2583,3 +2583,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 03:42:02.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuniorEb7> full oñooooooooooooooooo
 [22Apr2025 03:42:03.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a53376e3-37b2-3bd4-89ba-c5f742fc8b61
 [22Apr2025 03:42:03.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alejandrotuchero (a53376e3-37b2-3bd4-89ba-c5f742fc8b61) successfully connected to voice chat
+[22Apr2025 03:45:42.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charlie1995[/127.15.148.133:33935] logged in with entity id 2022 at (-705.0533567855332, 76.0, 119.43103334263597)
+[22Apr2025 03:45:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 joined the game
+[22Apr2025 03:45:42.237] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.237] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.237] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[22Apr2025 03:45:42.238] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.239] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[22Apr2025 03:45:42.240] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[22Apr2025 03:45:42.240] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[22Apr2025 03:45:42.240] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.240] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[22Apr2025 03:45:42.240] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[22Apr2025 03:45:42.240] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[22Apr2025 03:45:42.241] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[22Apr2025 03:45:42.241] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[22Apr2025 03:45:42.241] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[22Apr2025 03:45:43.498] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Charlie1995 (18)
+[22Apr2025 03:45:43.499] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Charlie1995
+[22Apr2025 03:45:46.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 92d19a8b-7f21-3fb7-99d5-013edd24e0c4
+[22Apr2025 03:45:47.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 92d19a8b-7f21-3fb7-99d5-013edd24e0c4
+[22Apr2025 03:45:47.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Charlie1995 (92d19a8b-7f21-3fb7-99d5-013edd24e0c4) successfully connected to voice chat
+[22Apr2025 03:48:29.210] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 DISCARDED 6bb32557-1888-46f9-9736-2119177c82d1
+[22Apr2025 03:48:39.307] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 KILLED 63e1b775-0729-4507-a5d5-f62dd5ef58b1
+[22Apr2025 03:48:53.308] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED bfe84702-8d59-4e60-b450-6068d9bcdfa6
+[22Apr2025 03:51:55.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuniorEb7> reft5y6
+[22Apr2025 03:52:09.309] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 KILLED b5b43031-644e-454b-8506-6449a6d4e4e1
+[22Apr2025 03:53:39.907] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 DISCARDED cba8d154-3c7a-49d9-9990-77c1c1df1e3a
