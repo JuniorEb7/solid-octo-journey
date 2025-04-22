@@ -3317,3 +3317,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 05:14:16.808] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 DISCARDED d0a003d3-46d7-4bfd-a4d7-bc7708f6ce61
 [22Apr2025 05:14:37.957] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 76af0fa0-627b-4cf0-916f-898a0907439b
 [22Apr2025 05:15:56.257] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 8c76b67a-540f-4d0a-a98c-938a7e196b77
+[22Apr2025 05:19:12.856] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 09736d7c-3551-4b74-bc9c-1d5d7156f257
+[22Apr2025 05:20:39.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JuniorEb7 lost connection: Disconnected
+[22Apr2025 05:20:39.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 left the game
+[22Apr2025 05:20:39.513] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JuniorEb7
