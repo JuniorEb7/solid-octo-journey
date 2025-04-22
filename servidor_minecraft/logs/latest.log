@@ -3198,3 +3198,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [22Apr2025 04:54:48.759] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED a7d71890-8735-4231-82df-6e6549303159
 [22Apr2025 04:55:06.258] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 547b17d9-e0b2-4f9e-bc6b-7c354012771c
 [22Apr2025 04:56:03.558] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED f5350d98-95f3-4772-a185-4f1ce2ac0176
+[22Apr2025 05:04:53.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 has made the advancement [Acquire Hardware]
