@@ -489,6 +489,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-21 04:33:36 +0000",
+      "minecraft:spider": "2025-04-22 04:04:34 +0000",
       "minecraft:creeper": "2025-04-21 03:44:40 +0000",
       "minecraft:zombie": "2025-04-21 03:42:42 +0000"
     },
@@ -1421,6 +1422,18 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-04-21 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-22 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-22 04:09:18 +0000"
     },
     "done": true
   },
