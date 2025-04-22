@@ -2134,6 +2134,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-22 04:52:22 +0000"
@@ -2218,9 +2224,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-22 04:42:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2230,9 +2248,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 06:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:33:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2266,6 +2302,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:33:10 +0000"
@@ -2275,6 +2317,18 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-22 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 06:16:02 +0000"
     },
     "done": true
   },
@@ -2296,9 +2350,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 06:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-22 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/advanced_bullet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 06:16:02 +0000"
     },
     "done": true
   },
@@ -2344,6 +2416,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:33:10 +0000"
@@ -2374,6 +2458,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-22 05:29:28 +0000"
@@ -2383,6 +2473,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-22 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2416,9 +2512,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-22 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2452,6 +2560,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-22 05:52:13 +0000"
@@ -2461,6 +2575,12 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-04-22 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2476,9 +2596,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/zerkalo_scope": {
     "criteria": {
       "has_redstone": "2025-04-22 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/shell": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 06:16:02 +0000"
     },
     "done": true
   },
@@ -2509,6 +2641,18 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-04-22 04:46:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2566,9 +2710,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:33:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
@@ -2578,9 +2734,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-22 06:16:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-04-22 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/basic_bullet": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 06:16:02 +0000"
     },
     "done": true
   },
@@ -2593,6 +2761,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-22 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-04-22 06:08:57 +0000"
     },
     "done": true
   },
