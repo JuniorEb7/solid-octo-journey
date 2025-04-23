@@ -2820,3 +2820,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [23Apr2025 05:08:51.963] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [23Apr2025 05:08:51.963] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
 [23Apr2025 05:09:12.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuniorEb7: Teleported JuniorEb7 to -732.500000, -33.000000, 76.500000]
+[23Apr2025 05:21:19.693] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Apr2025 05:21:19.694] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[23Apr2025 05:21:19.694] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
