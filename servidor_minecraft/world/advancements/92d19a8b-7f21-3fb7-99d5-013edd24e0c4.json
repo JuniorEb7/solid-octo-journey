@@ -1755,7 +1755,8 @@
       "minecraft:spider": "2025-04-22 04:51:53 +0000",
       "minecraft:creeper": "2025-04-22 04:04:30 +0000",
       "minecraft:phantom": "2025-04-22 05:50:57 +0000",
-      "minecraft:zombie": "2025-04-21 04:58:13 +0000"
+      "minecraft:zombie": "2025-04-21 04:58:13 +0000",
+      "minecraft:zombie_villager": "2025-04-23 04:44:50 +0000"
     },
     "done": false
   },
@@ -3040,6 +3041,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-23 04:37:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-23 04:39:09 +0000"
     },
     "done": true
   },
