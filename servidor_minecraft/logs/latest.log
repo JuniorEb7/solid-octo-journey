@@ -2755,3 +2755,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [23Apr2025 04:51:03.029] [Server thread/INFO] [tombstone/]: The player Alejandrotuchero has successfully been saved
 [23Apr2025 04:51:08.324] [Server thread/WARN] [tombstone/]: The death event of the player JuniorEb7 was canceled by another mod
 [23Apr2025 04:51:08.329] [Server thread/INFO] [tombstone/]: The player JuniorEb7 has successfully been saved
+[23Apr2025 04:56:29.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 has made the advancement [Diamonds!]
+[23Apr2025 04:56:50.024] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 46c366f1-b45e-47ef-92bd-123037ebe2d4
+[23Apr2025 04:56:53.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 has made the advancement [Isn't It Iron Pick]
+[23Apr2025 05:00:19.474] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 0571445e-d83d-4907-85ba-e15615489b41
