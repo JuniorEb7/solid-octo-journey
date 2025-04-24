@@ -52,9 +52,13 @@
       "muskeg": "2025-04-21 05:32:36 +0000",
       "snowblossom_grove": "2025-04-21 05:30:08 +0000",
       "cold_desert": "2025-04-21 04:25:32 +0000",
+      "coniferous_forest": "2025-04-24 04:29:32 +0000",
+      "aspen_glade": "2025-04-24 04:37:33 +0000",
+      "pumpkin_patch": "2025-04-24 04:33:56 +0000",
       "snowy_fir_clearing": "2025-04-21 05:28:57 +0000",
       "snowy_coniferous_forest": "2025-04-24 02:56:29 +0000",
-      "tundra": "2025-04-21 04:24:20 +0000"
+      "tundra": "2025-04-21 04:24:20 +0000",
+      "gravel_beach": "2025-04-24 04:34:18 +0000"
     },
     "done": false
   },
@@ -211,10 +215,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-04-21 04:26:04 +0000",
+      "minecraft:river": "2025-04-24 04:33:41 +0000",
       "minecraft:stony_shore": "2025-04-21 04:30:34 +0000",
       "minecraft:snowy_plains": "2025-04-22 05:44:14 +0000",
       "minecraft:snowy_taiga": "2025-04-22 05:44:23 +0000",
       "minecraft:grove": "2025-04-24 04:19:25 +0000",
+      "minecraft:cold_ocean": "2025-04-24 04:34:48 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-24 04:35:15 +0000",
       "minecraft:ice_spikes": "2025-04-24 03:41:58 +0000",
       "minecraft:frozen_ocean": "2025-04-22 05:43:02 +0000",
       "minecraft:snowy_beach": "2025-04-24 02:55:27 +0000",
@@ -3454,9 +3461,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-24 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
     },
     "done": true
   },
@@ -3466,9 +3527,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-24 04:26:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
     },
     "done": true
   },
@@ -3493,6 +3578,60 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-04-24 04:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-24 04:34:42 +0000"
     },
     "done": true
   },
