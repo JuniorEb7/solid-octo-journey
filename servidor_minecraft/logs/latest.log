@@ -4072,3 +4072,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [24Apr2025 02:54:15.970] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [24Apr2025 02:54:15.970] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
 [24Apr2025 02:55:37.056] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 8970d172-3439-4119-810e-e1c35c182014
+[24Apr2025 02:59:11.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Isn't It Iron Pick]
+[24Apr2025 03:00:44.046] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[24Apr2025 03:00:44.046] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[24Apr2025 03:00:44.046] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[24Apr2025 03:00:57.975] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 54c8b62e-c4a4-4113-9a46-b8125571bfd0
+[24Apr2025 03:02:01.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [A Strange Grave Dust]
+[24Apr2025 03:02:02.465] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED 7277b22b-11d3-460b-91de-cb2186927c03
+[24Apr2025 03:02:49.414] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 KILLED 61990bc7-b4ac-4816-918e-56000504f317
+[24Apr2025 03:03:15.616] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED 2777ea6c-cc6c-4f87-94e8-0e28a74591a0
+[24Apr2025 03:05:15.269] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED d7a880ce-1096-4a9c-aa52-eb40e5040c74
