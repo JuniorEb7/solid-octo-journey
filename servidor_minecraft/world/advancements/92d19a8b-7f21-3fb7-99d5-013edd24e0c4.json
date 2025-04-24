@@ -3210,7 +3210,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-04-23 06:03:45 +0000"
+      "minecraft:nether_wastes": "2025-04-23 06:03:45 +0000",
+      "minecraft:soul_sand_valley": "2025-04-24 02:21:20 +0000"
     },
     "done": false
   },
@@ -3249,6 +3250,24 @@
       "has_copper_block": "2025-04-23 06:07:23 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-24 02:17:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-04-24 02:16:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-04-24 02:16:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
