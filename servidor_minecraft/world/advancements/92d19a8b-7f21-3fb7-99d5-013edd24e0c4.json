@@ -3257,9 +3257,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-24 02:29:39 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:weeping_valley": "2025-04-24 02:16:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 02:23:43 +0000"
     },
     "done": true
   },
@@ -3268,6 +3280,24 @@
       "incendium:weeping_valley": "2025-04-24 02:16:03 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-24 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 02:31:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-04-24 02:23:30 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
