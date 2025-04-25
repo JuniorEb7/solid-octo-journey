@@ -3615,3 +3615,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [25Apr2025 03:34:00.045] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 8970d172-3439-4119-810e-e1c35c182014
 [25Apr2025 03:34:26.959] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED b7476d86-808c-44c5-bdd6-c5d02759cb57
 [25Apr2025 03:34:49.859] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 6fc78973-72ba-4225-bf7b-6fabbbb055a6
+[25Apr2025 03:44:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [A Seedy Place]
