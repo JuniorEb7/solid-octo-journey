@@ -2771,18 +2771,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-25 02:54:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-25 02:54:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-04-25 02:24:50 +0000"
