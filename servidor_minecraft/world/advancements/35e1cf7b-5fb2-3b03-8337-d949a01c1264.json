@@ -960,7 +960,8 @@
       "minecraft:spider": "2025-04-20 17:51:14 +0000",
       "minecraft:creeper": "2025-04-20 17:48:09 +0000",
       "minecraft:enderman": "2025-04-22 05:31:02 +0000",
-      "minecraft:zombie": "2025-04-20 17:52:38 +0000"
+      "minecraft:zombie": "2025-04-20 17:52:38 +0000",
+      "minecraft:drowned": "2025-04-25 04:08:29 +0000"
     },
     "done": false
   },
@@ -2598,6 +2599,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-25 01:25:39 +0000"
@@ -2646,6 +2653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-25 04:07:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-25 03:42:26 +0000"
@@ -2685,6 +2698,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-25 03:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-25 04:07:02 +0000"
     },
     "done": true
   },
@@ -2802,6 +2821,12 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-25 03:42:26 +0000"
@@ -2916,6 +2941,12 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-25 03:42:26 +0000"
@@ -2925,6 +2956,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-25 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
     },
     "done": true
   },
@@ -2943,6 +2980,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-25 01:25:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
     },
     "done": true
   },
@@ -3015,6 +3058,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-25 03:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-25 04:07:34 +0000"
     },
     "done": true
   },
@@ -3234,6 +3283,12 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-25 02:11:27 +0000"
@@ -3342,6 +3397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-25 03:42:26 +0000"
@@ -3363,6 +3424,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-25 01:51:54 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 04:07:35 +0000"
     },
     "done": true
   },
