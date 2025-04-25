@@ -3705,3 +3705,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [25Apr2025 04:07:54.431] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
 [25Apr2025 04:13:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Quickly Applied]
 [25Apr2025 04:13:42.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Vanishing]
+[25Apr2025 04:16:38.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Ice Bucket Challenge]
+[25Apr2025 04:23:20.437] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[25Apr2025 04:23:20.438] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[25Apr2025 04:23:20.438] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[25Apr2025 04:23:20.438] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
