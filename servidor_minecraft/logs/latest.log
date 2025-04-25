@@ -3067,3 +3067,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [25Apr2025 02:02:04.368] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
 [25Apr2025 02:02:04.368] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
 [25Apr2025 02:03:18.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 has made the advancement [The Parrots and the Bats]
+[25Apr2025 02:05:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Hot Stuff]
+[25Apr2025 02:05:04.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charlie1995 has made the advancement [Book of Monsters]
+[25Apr2025 02:05:25.361] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 2abf0796-6d47-402a-a655-8aa2a39998b2
+[25Apr2025 02:05:27.860] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 5d33bc5b-b630-4135-94e3-3ecb82238c8e
+[25Apr2025 02:07:35.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical moved wrongly!
+[25Apr2025 02:07:48.811] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 746a0ccb-032a-4bf1-a731-a1f47418908f
+[25Apr2025 02:07:50.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical moved wrongly!
+[25Apr2025 02:07:57.012] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED b585e503-64a2-485a-9364-da0f9def67fa
+[25Apr2025 02:08:19.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has completed the challenge [Master Siphoner]
+[25Apr2025 02:08:20.611] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED d55825f8-1580-4f87-a66f-00dba20c488d
+[25Apr2025 02:08:29.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/9408, l='ServerLevel[world]', x=1090.89, y=76.00, z=-1059.51] died, message: 'Weaponsmith was slain by Zombie'
+[25Apr2025 02:08:56.816] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 1eadd2d9-2fb3-4b00-bca6-3d29f9e510c5
+[25Apr2025 02:08:58.610] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 8ef42f9f-3e13-49a8-ba1e-40d9de293ab6
+[25Apr2025 02:09:55.762] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED eb0461af-d6eb-4bf3-8e1e-6c300a9c024e

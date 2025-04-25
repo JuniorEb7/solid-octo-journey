@@ -894,6 +894,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-25 02:06:29 +0000",
       "baked_potato": "2025-04-22 05:03:20 +0000",
       "potato": "2025-04-24 03:01:21 +0000",
       "bread": "2025-04-21 05:18:29 +0000",
@@ -3704,6 +3705,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-25 02:03:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-04-25 01:12:20 +0000"
@@ -3715,6 +3722,18 @@
       "killed_fire_dragon": "2025-04-25 01:12:10 +0000"
     },
     "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-04-25 02:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-04-25 02:03:18 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
