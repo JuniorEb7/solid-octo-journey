@@ -630,6 +630,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-26 03:57:52 +0000",
       "minecraft:deep_ocean": "2025-04-26 03:05:08 +0000",
       "minecraft:frozen_river": "2025-04-24 02:44:30 +0000",
       "minecraft:sunflower_plains": "2025-04-24 04:46:02 +0000",
@@ -4245,6 +4246,12 @@
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2025-04-26 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "pitcher_pod": "2025-04-26 04:13:34 +0000"
     },
     "done": true
   },
