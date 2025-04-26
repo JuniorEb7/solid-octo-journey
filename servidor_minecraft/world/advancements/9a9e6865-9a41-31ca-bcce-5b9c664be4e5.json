@@ -61,12 +61,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-26 03:39:11 +0000",
       "minecraft:frozen_river": "2025-04-20 17:40:41 +0000",
+      "minecraft:beach": "2025-04-26 03:39:06 +0000",
+      "minecraft:river": "2025-04-26 03:29:56 +0000",
       "minecraft:snowy_plains": "2025-04-20 17:38:56 +0000",
       "minecraft:stony_shore": "2025-04-21 02:59:11 +0000",
       "minecraft:snowy_taiga": "2025-04-20 18:24:38 +0000",
+      "minecraft:cold_ocean": "2025-04-26 03:29:18 +0000",
       "minecraft:ice_spikes": "2025-04-26 03:02:08 +0000",
       "minecraft:frozen_ocean": "2025-04-21 02:58:52 +0000",
+      "minecraft:ocean": "2025-04-26 03:38:49 +0000",
       "minecraft:snowy_beach": "2025-04-21 02:58:48 +0000"
     },
     "done": false
@@ -483,10 +488,16 @@
     "criteria": {
       "muskeg": "2025-04-21 02:56:48 +0000",
       "snowblossom_grove": "2025-04-21 02:58:34 +0000",
+      "rocky_shrubland": "2025-04-26 03:38:56 +0000",
+      "mystic_grove": "2025-04-26 03:38:41 +0000",
       "cold_desert": "2025-04-21 04:17:54 +0000",
+      "redwood_forest": "2025-04-26 03:38:37 +0000",
+      "fir_clearing": "2025-04-26 03:38:20 +0000",
       "snowy_fir_clearing": "2025-04-25 04:53:43 +0000",
       "tundra": "2025-04-21 03:00:10 +0000",
-      "snowy_maple_woods": "2025-04-21 02:58:47 +0000"
+      "gravel_beach": "2025-04-26 03:29:58 +0000",
+      "snowy_maple_woods": "2025-04-21 02:58:47 +0000",
+      "ominous_woods": "2025-04-26 03:38:24 +0000"
     },
     "done": false
   },
@@ -2810,33 +2821,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-04-26 03:00:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-26 03:09:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-04-26 03:05:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-04-26 03:09:28 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/food/frost_stew": {
     "criteria": {
       "has_item": "2025-04-26 02:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-26 03:00:29 +0000"
     },
     "done": true
   },
@@ -2846,15 +2839,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-26 03:00:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-26 03:05:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2025-04-26 03:05:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_cod": "2025-04-26 03:00:29 +0000"
+      "has_poppy": "2025-04-26 03:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-26 03:09:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-26 03:10:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-26 03:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-26 03:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-04-26 03:38:04 +0000"
     },
     "done": true
   },

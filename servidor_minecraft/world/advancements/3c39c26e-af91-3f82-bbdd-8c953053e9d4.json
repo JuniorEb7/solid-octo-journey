@@ -44,22 +44,28 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2025-04-24 02:25:10 +0000",
+      "shrubland": "2025-04-26 03:11:11 +0000",
       "snowblossom_grove": "2025-04-24 03:34:26 +0000",
       "rocky_shrubland": "2025-04-26 02:36:17 +0000",
       "scrubland": "2025-04-26 02:11:12 +0000",
       "jacaranda_glade": "2025-04-26 02:08:38 +0000",
+      "mystic_grove": "2025-04-26 03:12:17 +0000",
       "cold_desert": "2025-04-24 02:45:45 +0000",
       "old_growth_woodland": "2025-04-26 01:16:18 +0000",
       "orchard": "2025-04-26 00:53:00 +0000",
+      "field": "2025-04-26 03:39:44 +0000",
       "mediterranean_forest": "2025-04-26 01:16:27 +0000",
       "coniferous_forest": "2025-04-24 04:29:30 +0000",
+      "redwood_forest": "2025-04-26 03:18:29 +0000",
       "dune_beach": "2025-04-24 04:43:27 +0000",
+      "fir_clearing": "2025-04-26 03:27:31 +0000",
       "pumpkin_patch": "2025-04-24 04:32:52 +0000",
       "prairie": "2025-04-26 03:07:43 +0000",
       "snowy_coniferous_forest": "2025-04-24 03:30:32 +0000",
       "snowy_fir_clearing": "2025-04-24 03:34:01 +0000",
       "tundra": "2025-04-24 02:22:04 +0000",
-      "gravel_beach": "2025-04-24 04:32:28 +0000"
+      "gravel_beach": "2025-04-24 04:32:28 +0000",
+      "ominous_woods": "2025-04-26 03:37:03 +0000"
     },
     "done": false
   },
@@ -627,6 +633,7 @@
       "minecraft:deep_ocean": "2025-04-26 03:05:08 +0000",
       "minecraft:frozen_river": "2025-04-24 02:44:30 +0000",
       "minecraft:sunflower_plains": "2025-04-24 04:46:02 +0000",
+      "minecraft:birch_forest": "2025-04-26 03:16:20 +0000",
       "minecraft:beach": "2025-04-24 04:43:28 +0000",
       "minecraft:river": "2025-04-24 04:32:22 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 01:34:03 +0000",
@@ -642,6 +649,7 @@
       "minecraft:ocean": "2025-04-24 04:43:06 +0000",
       "minecraft:snowy_beach": "2025-04-24 02:47:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-26 02:54:35 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-26 03:13:44 +0000",
       "minecraft:savanna": "2025-04-26 01:16:51 +0000",
       "minecraft:plains": "2025-04-24 04:46:07 +0000"
     },
@@ -4048,9 +4056,111 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-26 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-26 03:18:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-04-26 03:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-26 03:40:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-26 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_small": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-26 03:31:05 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/sniper_muzzle_brake": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_medium": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/vintorez_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-26 03:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-26 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-04-26 03:28:02 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_heavy": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-26 03:34:50 +0000"
     },
     "done": true
   },
@@ -4060,9 +4170,99 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/basic_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-04-26 02:59:49 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_long": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_special": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-26 03:18:15 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_short": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-04-26 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-04-26 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-26 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-04-26 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-26 03:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-26 03:40:04 +0000"
     },
     "done": true
   },
