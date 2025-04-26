@@ -4101,6 +4101,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-04-26 04:43:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-26 04:17:15 +0000"

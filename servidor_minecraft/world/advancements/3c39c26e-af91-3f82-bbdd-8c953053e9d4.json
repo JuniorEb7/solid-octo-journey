@@ -4059,6 +4059,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-04-26 04:46:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-26 04:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-04-26 04:29:35 +0000"
@@ -4080,6 +4092,12 @@
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-04-26 03:08:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-04-26 04:46:22 +0000"
     },
     "done": true
   },
@@ -4170,6 +4188,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-26 04:22:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-04-26 04:46:22 +0000"
     },
     "done": true
   },
@@ -4275,6 +4299,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-04-26 04:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
       "pitcher_pod": "2025-04-26 04:13:34 +0000"
@@ -4290,6 +4320,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-04-26 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-04-26 04:46:08 +0000"
     },
     "done": true
   },
