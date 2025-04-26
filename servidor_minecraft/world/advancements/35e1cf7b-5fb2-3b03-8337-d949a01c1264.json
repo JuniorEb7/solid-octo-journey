@@ -4161,6 +4161,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-26 04:35:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/umbran_door": {
     "criteria": {
       "has_planks": "2025-04-26 04:17:15 +0000"
