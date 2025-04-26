@@ -645,6 +645,7 @@
       "minecraft:cold_ocean": "2025-04-24 04:34:00 +0000",
       "minecraft:forest": "2025-04-26 00:49:56 +0000",
       "minecraft:deep_cold_ocean": "2025-04-24 04:34:27 +0000",
+      "minecraft:ice_spikes": "2025-04-26 04:28:53 +0000",
       "minecraft:frozen_ocean": "2025-04-24 02:45:18 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-24 03:06:33 +0000",
       "minecraft:ocean": "2025-04-24 04:43:06 +0000",
@@ -4057,6 +4058,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-26 04:29:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2025-04-26 03:31:13 +0000"
@@ -4072,6 +4079,12 @@
   "tombstone:adventure/mutual_aid": {
     "criteria": {
       "coded_trigger": "2025-04-26 03:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-26 04:22:26 +0000"
     },
     "done": true
   },
@@ -4144,6 +4157,18 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-04-26 03:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-26 04:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-26 04:22:26 +0000"
     },
     "done": true
   },
@@ -4252,6 +4277,12 @@
   "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
       "pitcher_pod": "2025-04-26 04:13:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_zombie_receptacle": "2025-04-26 04:29:35 +0000"
     },
     "done": true
   },
