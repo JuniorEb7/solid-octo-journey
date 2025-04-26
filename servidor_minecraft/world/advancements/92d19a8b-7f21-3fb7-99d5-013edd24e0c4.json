@@ -1780,8 +1780,11 @@
       "minecraft:skeleton": "2025-04-22 04:02:13 +0000",
       "minecraft:spider": "2025-04-22 04:51:53 +0000",
       "minecraft:creeper": "2025-04-22 04:04:30 +0000",
+      "minecraft:slime": "2025-04-26 01:14:26 +0000",
       "minecraft:phantom": "2025-04-22 05:50:57 +0000",
+      "minecraft:enderman": "2025-04-26 01:08:01 +0000",
       "minecraft:zombie": "2025-04-21 04:58:13 +0000",
+      "minecraft:drowned": "2025-04-26 01:12:44 +0000",
       "minecraft:zombie_villager": "2025-04-23 04:44:50 +0000"
     },
     "done": false
@@ -3857,15 +3860,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 01:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 01:14:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
       "has_voodoo_poppet": "2025-04-26 00:48:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 01:14:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-04-26 00:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-26 01:14:49 +0000"
     },
     "done": true
   },

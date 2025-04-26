@@ -2644,3 +2644,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [26Apr2025 01:03:57.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [I slipped]
 [26Apr2025 01:04:37.695] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
 [26Apr2025 01:04:37.700] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[26Apr2025 01:13:08.245] [Server thread/WARN] [tombstone/]: The death event of the player PedroZ510 was canceled by another mod
+[26Apr2025 01:13:08.247] [Server thread/INFO] [tombstone/]: The player PedroZ510 has successfully been saved
+[26Apr2025 01:13:51.645] [Server thread/WARN] [tombstone/]: The death event of the player PedroZ510 was canceled by another mod
+[26Apr2025 01:13:51.647] [Server thread/INFO] [tombstone/]: The player PedroZ510 has successfully been saved
+[26Apr2025 01:19:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Stolen Magic]
