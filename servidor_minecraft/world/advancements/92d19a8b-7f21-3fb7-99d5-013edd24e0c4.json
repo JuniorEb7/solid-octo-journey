@@ -56,6 +56,7 @@
       "orchard": "2025-04-25 01:51:39 +0000",
       "coniferous_forest": "2025-04-24 04:29:32 +0000",
       "aspen_glade": "2025-04-24 04:37:33 +0000",
+      "dune_beach": "2025-04-26 00:52:37 +0000",
       "pumpkin_patch": "2025-04-24 04:33:56 +0000",
       "snowy_fir_clearing": "2025-04-21 05:28:57 +0000",
       "snowy_coniferous_forest": "2025-04-24 02:56:29 +0000",
@@ -227,6 +228,7 @@
       "minecraft:snowy_taiga": "2025-04-22 05:44:23 +0000",
       "minecraft:grove": "2025-04-24 04:19:25 +0000",
       "minecraft:cold_ocean": "2025-04-24 04:34:48 +0000",
+      "minecraft:forest": "2025-04-26 00:51:41 +0000",
       "minecraft:deep_cold_ocean": "2025-04-24 04:35:15 +0000",
       "minecraft:ice_spikes": "2025-04-24 03:41:58 +0000",
       "minecraft:frozen_ocean": "2025-04-22 05:43:02 +0000",
@@ -3843,81 +3845,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 02:51:18 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-04-25 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-26 00:51:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-04-26 00:48:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-26 00:51:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-04-26 00:48:49 +0000"
     },
     "done": true
   },

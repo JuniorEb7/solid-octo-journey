@@ -46,6 +46,7 @@
       "muskeg": "2025-04-24 02:25:10 +0000",
       "snowblossom_grove": "2025-04-24 03:34:26 +0000",
       "cold_desert": "2025-04-24 02:45:45 +0000",
+      "orchard": "2025-04-26 00:53:00 +0000",
       "coniferous_forest": "2025-04-24 04:29:30 +0000",
       "dune_beach": "2025-04-24 04:43:27 +0000",
       "pumpkin_patch": "2025-04-24 04:32:52 +0000",
@@ -81,7 +82,8 @@
       "minecraft:creeper": "2025-04-24 03:24:20 +0000",
       "minecraft:enderman": "2025-04-25 02:34:07 +0000",
       "minecraft:zombie": "2025-04-24 02:24:03 +0000",
-      "minecraft:drowned": "2025-04-24 03:03:55 +0000"
+      "minecraft:drowned": "2025-04-24 03:03:55 +0000",
+      "minecraft:zombie_villager": "2025-04-26 01:00:05 +0000"
     },
     "done": false
   },
@@ -623,6 +625,7 @@
       "minecraft:stony_shore": "2025-04-24 02:29:08 +0000",
       "minecraft:snowy_taiga": "2025-04-24 03:34:04 +0000",
       "minecraft:cold_ocean": "2025-04-24 04:34:00 +0000",
+      "minecraft:forest": "2025-04-26 00:49:56 +0000",
       "minecraft:deep_cold_ocean": "2025-04-24 04:34:27 +0000",
       "minecraft:frozen_ocean": "2025-04-24 02:45:18 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-24 03:06:33 +0000",
@@ -3204,6 +3207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3258,6 +3267,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3270,9 +3285,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3318,9 +3345,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/medium_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3348,6 +3387,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3366,6 +3417,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3378,6 +3435,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3387,6 +3450,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3414,6 +3483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3423,6 +3498,24 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3444,9 +3537,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/short_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/zerkalo_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3486,6 +3603,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3495,6 +3618,24 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/kobra": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3510,6 +3651,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3519,6 +3672,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/holo_scope": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
@@ -3540,6 +3699,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
@@ -3555,6 +3720,18 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-26 00:23:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-26 00:54:11 +0000"
     },
     "done": true
   },
