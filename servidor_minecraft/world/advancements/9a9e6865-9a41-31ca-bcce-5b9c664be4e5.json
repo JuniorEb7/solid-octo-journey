@@ -65,6 +65,7 @@
       "minecraft:snowy_plains": "2025-04-20 17:38:56 +0000",
       "minecraft:stony_shore": "2025-04-21 02:59:11 +0000",
       "minecraft:snowy_taiga": "2025-04-20 18:24:38 +0000",
+      "minecraft:ice_spikes": "2025-04-26 03:02:08 +0000",
       "minecraft:frozen_ocean": "2025-04-21 02:58:52 +0000",
       "minecraft:snowy_beach": "2025-04-21 02:58:48 +0000"
     },
@@ -2785,85 +2786,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-25 04:59:36 +0000",
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-25 04:59:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-04-25 04:28:06 +0000"
-    },
-    "done": false
-  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-04-25 04:28:04 +0000"
@@ -2879,6 +2801,60 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-25 04:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-25 04:28:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-26 03:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-26 03:09:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-26 03:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-26 03:09:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-04-26 02:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-26 03:00:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-26 03:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-26 03:00:29 +0000"
     },
     "done": true
   },

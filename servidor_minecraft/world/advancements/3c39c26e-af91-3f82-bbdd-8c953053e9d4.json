@@ -55,6 +55,7 @@
       "coniferous_forest": "2025-04-24 04:29:30 +0000",
       "dune_beach": "2025-04-24 04:43:27 +0000",
       "pumpkin_patch": "2025-04-24 04:32:52 +0000",
+      "prairie": "2025-04-26 03:07:43 +0000",
       "snowy_coniferous_forest": "2025-04-24 03:30:32 +0000",
       "snowy_fir_clearing": "2025-04-24 03:34:01 +0000",
       "tundra": "2025-04-24 02:22:04 +0000",
@@ -623,6 +624,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-26 03:05:08 +0000",
       "minecraft:frozen_river": "2025-04-24 02:44:30 +0000",
       "minecraft:sunflower_plains": "2025-04-24 04:46:02 +0000",
       "minecraft:beach": "2025-04-24 04:43:28 +0000",
@@ -639,6 +641,7 @@
       "minecraft:deep_frozen_ocean": "2025-04-24 03:06:33 +0000",
       "minecraft:ocean": "2025-04-24 04:43:06 +0000",
       "minecraft:snowy_beach": "2025-04-24 02:47:16 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-26 02:54:35 +0000",
       "minecraft:savanna": "2025-04-26 01:16:51 +0000",
       "minecraft:plains": "2025-04-24 04:46:07 +0000"
     },
@@ -3889,18 +3892,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-04-26 02:33:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-04-26 02:33:27 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-04-26 02:14:24 +0000"
@@ -3919,12 +3910,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-04-26 02:18:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 02:14:24 +0000"
@@ -3937,21 +3922,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-04-26 02:41:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 02:14:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-04-26 02:27:53 +0000"
     },
     "done": true
   },
@@ -3973,18 +3946,6 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-04-26 02:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-04-26 02:27:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-04-26 02:14:24 +0000"
@@ -4003,21 +3964,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
-      "entered_nether": "2025-04-26 02:33:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-26 02:27:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_purification": {
-    "criteria": {
-      "has_magic_scroll": "2025-04-26 02:28:21 +0000"
+      "has_item": "2025-04-26 02:18:29 +0000"
     },
     "done": true
   },
@@ -4033,9 +3982,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-26 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-26 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-26 02:27:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-04-26 02:28:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-26 02:28:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-26 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-26 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-26 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-26 02:33:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-26 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 02:51:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 03:08:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-26 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-26 02:59:49 +0000"
     },
     "done": true
   },
