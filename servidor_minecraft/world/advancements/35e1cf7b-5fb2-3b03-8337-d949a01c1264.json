@@ -963,6 +963,7 @@
       "minecraft:spider": "2025-04-20 17:51:14 +0000",
       "minecraft:creeper": "2025-04-20 17:48:09 +0000",
       "minecraft:slime": "2025-04-26 01:09:43 +0000",
+      "minecraft:witch": "2025-04-26 02:10:31 +0000",
       "minecraft:cave_spider": "2025-04-26 01:19:37 +0000",
       "minecraft:enderman": "2025-04-22 05:31:02 +0000",
       "minecraft:zombie": "2025-04-20 17:52:38 +0000",
@@ -1410,12 +1411,14 @@
     "criteria": {
       "muskeg": "2025-04-22 04:05:11 +0000",
       "snowblossom_grove": "2025-04-22 04:05:22 +0000",
+      "scrubland": "2025-04-26 02:11:31 +0000",
       "cold_desert": "2025-04-22 04:06:39 +0000",
       "old_growth_woodland": "2025-04-26 01:16:10 +0000",
       "orchard": "2025-04-26 00:53:23 +0000",
       "mediterranean_forest": "2025-04-26 01:16:16 +0000",
       "coniferous_forest": "2025-04-24 04:29:07 +0000",
       "dune_beach": "2025-04-24 04:43:27 +0000",
+      "lavender_field": "2025-04-26 02:23:30 +0000",
       "pumpkin_patch": "2025-04-24 04:33:02 +0000",
       "snowy_fir_clearing": "2025-04-22 04:06:22 +0000",
       "snowy_coniferous_forest": "2025-04-24 04:03:33 +0000",
@@ -3489,6 +3492,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 01:18:57 +0000"
@@ -3555,9 +3564,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 02:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-26 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
     },
     "done": true
   },
@@ -3603,6 +3624,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-04-26 02:22:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 02:12:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
@@ -3615,15 +3654,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-26 02:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-26 01:29:35 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-26 02:25:04 +0000"
     },
     "done": true
   },
@@ -3666,6 +3729,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
     },
     "done": true
   },
@@ -3717,6 +3786,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
@@ -3753,6 +3828,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/combat/short_scope": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
@@ -3774,6 +3855,12 @@
   "additionalguns:recipes/additionalguns/zerkalo_scope": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
     },
     "done": true
   },
@@ -3810,6 +3897,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-04-26 01:09:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 02:10:31 +0000"
     },
     "done": true
   },
@@ -3855,6 +3948,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-04-26 01:05:34 +0000"
@@ -3873,9 +3972,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-26 02:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-26 00:53:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-26 02:12:03 +0000"
     },
     "done": true
   },
