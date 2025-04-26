@@ -2588,3 +2588,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [26Apr2025 00:27:11.742] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 3a5ddb8b-30d5-458e-ac59-f182410b6f1e
 [26Apr2025 00:28:40.902] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
 [26Apr2025 00:28:40.913] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[26Apr2025 00:29:18.192] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED d9b46d20-ebff-4f9f-8bff-d702c827cf55
+[26Apr2025 00:29:33.592] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED bf9cf0c6-6693-4cac-bcf2-7903e21725a2
+[26Apr2025 00:30:21.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PedroZ510> zzzz
+[26Apr2025 00:35:43.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Back to childhood]
+[26Apr2025 00:35:43.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Not even afraid of death]
