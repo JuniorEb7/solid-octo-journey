@@ -4342,5 +4342,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-28 02:03:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
