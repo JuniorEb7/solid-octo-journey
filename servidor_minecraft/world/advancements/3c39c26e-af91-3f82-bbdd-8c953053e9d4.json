@@ -56,6 +56,7 @@
       "field": "2025-04-26 03:39:44 +0000",
       "mediterranean_forest": "2025-04-26 01:16:27 +0000",
       "coniferous_forest": "2025-04-24 04:29:30 +0000",
+      "forested_field": "2025-04-28 03:33:10 +0000",
       "old_growth_dead_forest": "2025-04-28 02:50:54 +0000",
       "redwood_forest": "2025-04-26 03:18:29 +0000",
       "dune_beach": "2025-04-24 04:43:27 +0000",
@@ -68,6 +69,7 @@
       "tundra": "2025-04-24 02:22:04 +0000",
       "gravel_beach": "2025-04-24 04:32:28 +0000",
       "snowy_maple_woods": "2025-04-26 04:35:12 +0000",
+      "crag": "2025-04-28 03:35:45 +0000",
       "ominous_woods": "2025-04-26 03:37:03 +0000"
     },
     "done": false
@@ -634,6 +636,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-28 03:31:22 +0000",
       "minecraft:taiga": "2025-04-26 03:57:52 +0000",
       "minecraft:deep_ocean": "2025-04-26 03:05:08 +0000",
       "minecraft:frozen_river": "2025-04-24 02:44:30 +0000",
@@ -653,6 +656,7 @@
       "minecraft:frozen_ocean": "2025-04-24 02:45:18 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-24 03:06:33 +0000",
       "minecraft:ocean": "2025-04-24 04:43:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-28 03:32:04 +0000",
       "minecraft:snowy_beach": "2025-04-24 02:47:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-26 02:54:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-26 03:13:44 +0000",
@@ -4422,6 +4426,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-28 03:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-28 03:32:43 +0000"
     },
     "done": true
   },
