@@ -3771,3 +3771,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [28Apr2025 03:28:31.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Criitiical to PedroZ510
 [28Apr2025 03:33:44.831] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 926aa721-4476-4e0f-9c59-dc450b2e2a9f
 [28Apr2025 03:33:49.782] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED 3941afcf-0d7d-4c99-9b2d-249568a641ae
+[28Apr2025 03:37:56.385] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED bef6ecba-8e24-4d43-aad0-e5720db27713
+[28Apr2025 03:37:59.681] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 35da5d05-3ce3-4467-bb7e-17a7e8ef9cab
+[28Apr2025 03:38:52.781] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED eac94b47-bfc5-46f3-ba29-c1d7e8396194
+[28Apr2025 03:44:15.147] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[28Apr2025 03:44:15.148] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[28Apr2025 03:44:15.148] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[28Apr2025 03:46:55.388] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[28Apr2025 03:46:55.388] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[28Apr2025 03:46:55.388] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[28Apr2025 03:46:56.039] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[28Apr2025 03:46:56.040] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[28Apr2025 03:46:56.040] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
