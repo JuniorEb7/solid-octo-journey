@@ -3089,3 +3089,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [28Apr2025 02:26:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Criitiical> voy a tomar mi lonche altoque papi
 [28Apr2025 02:26:11.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PedroZ510> oki bb
 [28Apr2025 02:26:14.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Criitiical> 15 min y regreso
+[28Apr2025 02:26:19.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical lost connection: Disconnected
+[28Apr2025 02:26:19.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical left the game
+[28Apr2025 02:26:19.645] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Criitiical
+[28Apr2025 02:26:52.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PedroZ510 lost connection: Disconnected
+[28Apr2025 02:26:52.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 left the game
+[28Apr2025 02:26:52.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PedroZ510
+[28Apr2025 02:34:56.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Criitiical[/127.222.152.168:45015] logged in with entity id 9220 at (1228.8705859109868, 69.0, -1067.8581091833896)
+[28Apr2025 02:34:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical joined the game
+[28Apr2025 02:34:56.553] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.553] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.553] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[28Apr2025 02:34:56.554] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[28Apr2025 02:34:56.554] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[28Apr2025 02:34:56.554] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[28Apr2025 02:34:56.554] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[28Apr2025 02:34:56.554] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[28Apr2025 02:34:56.554] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[28Apr2025 02:34:56.555] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.555] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[28Apr2025 02:34:56.555] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[28Apr2025 02:34:56.555] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[28Apr2025 02:34:56.555] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.556] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[28Apr2025 02:34:56.556] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[28Apr2025 02:34:56.556] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.556] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[28Apr2025 02:34:56.557] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[28Apr2025 02:34:56.557] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[28Apr2025 02:34:56.557] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.557] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[28Apr2025 02:34:56.557] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[28Apr2025 02:34:56.557] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[28Apr2025 02:34:56.558] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[28Apr2025 02:34:56.558] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[28Apr2025 02:34:56.558] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[28Apr2025 02:34:57.106] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Criitiical (18)
+[28Apr2025 02:34:57.107] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Criitiical
+[28Apr2025 02:35:00.898] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3c39c26e-af91-3f82-bbdd-8c953053e9d4
+[28Apr2025 02:35:01.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3c39c26e-af91-3f82-bbdd-8c953053e9d4
+[28Apr2025 02:35:01.896] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Criitiical (3c39c26e-af91-3f82-bbdd-8c953053e9d4) successfully connected to voice chat
+[28Apr2025 02:35:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Criitiical> chivo
