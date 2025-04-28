@@ -95,6 +95,7 @@
       "minecraft:creeper": "2025-04-24 03:24:20 +0000",
       "minecraft:cave_spider": "2025-04-26 01:20:36 +0000",
       "minecraft:enderman": "2025-04-25 02:34:07 +0000",
+      "minecraft:stray": "2025-04-28 02:13:28 +0000",
       "minecraft:zombie": "2025-04-24 02:24:03 +0000",
       "minecraft:drowned": "2025-04-24 03:03:55 +0000",
       "minecraft:zombie_villager": "2025-04-26 01:00:05 +0000"
@@ -4345,6 +4346,24 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-04-28 02:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-28 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-28 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-28 02:15:49 +0000"
     },
     "done": true
   },
