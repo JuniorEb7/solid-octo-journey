@@ -3587,6 +3587,7 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
+      "has_prevent_burn": "2025-04-26 05:11:53 +0000",
       "has_prevent_fall": "2025-04-26 01:03:57 +0000"
     },
     "done": false
@@ -4095,15 +4096,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
     "criteria": {
-      "shot_arrow": "2025-04-26 03:58:23 +0000"
+      "has_log": "2025-04-26 03:55:55 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "killed_ice_dragon": "2025-04-26 04:43:13 +0000"
+      "shot_arrow": "2025-04-26 03:58:23 +0000"
     },
     "done": true
   },
@@ -4122,12 +4123,6 @@
   "biomesoplenty:recipes/redstone/umbran_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-26 04:17:15 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/magic_siphoner": {
-    "criteria": {
-      "coded_trigger": "2025-04-26 04:59:03 +0000"
     },
     "done": true
   },
@@ -4155,9 +4150,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+  "biomesoplenty:recipes/decorations/umbran_sign": {
     "criteria": {
-      "has_log": "2025-04-26 03:55:55 +0000"
+      "has_planks": "2025-04-26 04:17:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 04:17:15 +0000"
     },
     "done": true
   },
@@ -4167,21 +4168,27 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/umbran_sign": {
-    "criteria": {
-      "has_planks": "2025-04-26 04:17:15 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-04-26 04:35:27 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/umbran_door": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_planks": "2025-04-26 04:17:15 +0000"
+      "killed_ice_dragon": "2025-04-26 04:43:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 04:59:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-04-26 05:11:53 +0000"
     },
     "done": true
   },
