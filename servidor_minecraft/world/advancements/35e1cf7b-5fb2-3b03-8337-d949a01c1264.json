@@ -4218,9 +4218,69 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-28 03:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-28 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-28 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-28 03:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-28 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-28 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
     },
     "done": true
   },
@@ -4230,9 +4290,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-28 03:25:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-04-28 03:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-28 03:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-04-28 03:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-28 03:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-28 03:25:39 +0000"
     },
     "done": true
   },
