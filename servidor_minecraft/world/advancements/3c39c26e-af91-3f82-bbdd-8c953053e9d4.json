@@ -2020,6 +2020,7 @@
       "bread": "2025-04-25 03:48:47 +0000",
       "golden_apple": "2025-04-26 02:34:12 +0000",
       "rotten_flesh": "2025-04-24 03:04:09 +0000",
+      "salmon": "2025-04-28 03:02:52 +0000",
       "carrot": "2025-04-25 02:30:26 +0000"
     },
     "done": false
@@ -4409,6 +4410,30 @@
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-04-28 02:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-28 03:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-28 03:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-28 03:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-28 03:02:47 +0000"
     },
     "done": true
   },
