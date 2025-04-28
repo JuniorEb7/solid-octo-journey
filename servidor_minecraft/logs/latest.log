@@ -3785,3 +3785,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [28Apr2025 03:46:56.040] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
 [28Apr2025 04:01:56.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32280, l='ServerLevel[world]', x=1134.93, y=71.00, z=-1102.94] died, message: 'Villager was slain by Zombie'
 [28Apr2025 04:04:17.732] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED e32ce9ea-f19e-4457-a5e4-ca276b55eb2e
+[28Apr2025 04:18:12.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32275, l='ServerLevel[world]', x=1136.74, y=63.00, z=-1124.39] died, message: 'Villager hit the ground too hard'
