@@ -3227,3 +3227,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [28Apr2025 02:43:07.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PedroZ510 (35e1cf7b-5fb2-3b03-8337-d949a01c1264) successfully connected to voice chat
 [28Apr2025 02:43:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Criitiical> no me escuhar
 [28Apr2025 02:43:41.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Criitiical> ?
+[28Apr2025 02:53:24.533] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 29 DISCARDED 60c81e93-d44f-45ca-8439-48b956666d8e
+[28Apr2025 02:53:39.832] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 KILLED 4bcc9825-2a22-4134-b25a-13bde117f81e
+[28Apr2025 02:53:42.333] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 KILLED 22a91454-f436-416c-bd41-232ac95feebf
+[28Apr2025 02:53:44.531] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 KILLED 24fe2f1d-3e89-4476-a408-a6eef592f3c8
+[28Apr2025 02:53:45.085] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 KILLED 898c8b60-2cf7-48ac-9298-d8650cdb97f5
+[28Apr2025 02:53:52.634] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 KILLED f08a3484-bc5d-405c-8f11-986bf29b5fbd
+[28Apr2025 02:53:53.332] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 KILLED b3b9c9f6-8e9f-40c0-aecd-e96ecd079a2a
+[28Apr2025 02:53:54.086] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 KILLED e67d0e73-89e5-41ec-bee9-7d1b04121f58
+[28Apr2025 02:54:02.432] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 KILLED 586cba92-f19a-458f-86b6-075b60565779
+[28Apr2025 02:54:07.232] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 KILLED 33edc148-d20b-4bc1-b785-1b348c92d8a3
+[28Apr2025 02:54:09.545] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 KILLED fd562e62-f93c-406a-963a-48320b6617e0
+[28Apr2025 02:54:10.083] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 KILLED 643b3ba2-743b-4dc5-8080-e80b20a63684
+[28Apr2025 02:54:14.533] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 KILLED c3632b71-937c-46eb-b902-d67f9ed028cc
+[28Apr2025 02:54:21.283] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 46 KILLED 9b63a22c-7cdf-4ced-91c6-acdd22ca051b
+[28Apr2025 02:54:22.631] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 45 KILLED a6961763-3da3-450e-9d56-597e18ee77cb
+[28Apr2025 02:54:22.832] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 44 KILLED 529d9495-5252-4411-981d-c037715ebae9
+[28Apr2025 02:54:23.981] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 43 KILLED 278839fd-8148-4618-82cf-d0b71740fe64
+[28Apr2025 02:54:24.194] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 42 KILLED 328e3383-14c8-4a6e-a32f-22f030fec5d5
+[28Apr2025 02:54:26.782] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 41 KILLED 8b45c86d-262d-48d7-9b50-b4b065513422
+[28Apr2025 02:54:33.032] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 40 KILLED f045026e-f534-4585-a057-ec9f9382ff71
+[28Apr2025 02:54:40.331] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 39 KILLED e93bf21b-86c6-4115-8a33-ed8e74e4ab02
+[28Apr2025 02:54:42.583] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[28Apr2025 02:54:42.589] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[28Apr2025 02:54:42.731] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 38 KILLED acaa47e1-839e-4bff-97da-bc4ff4246989
+[28Apr2025 02:54:50.233] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 37 DISCARDED 5b69ade0-5fa1-460f-a7e5-f86344369b95
+[28Apr2025 02:54:53.333] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 36 DISCARDED 783affa4-e14c-4e9a-b27a-d3af7c591b3e
+[28Apr2025 02:54:55.324] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[28Apr2025 02:54:55.357] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 35 DISCARDED 5f415e48-fcf9-4046-9ded-1fce8683ea31
+[28Apr2025 02:54:55.359] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[28Apr2025 02:54:58.784] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 34 DISCARDED 8b5e0813-2feb-42f9-900e-04a8a3265b9c
+[28Apr2025 02:54:59.734] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 33 DISCARDED d0ffceba-710c-4535-9e46-122a8fb4c780
+[28Apr2025 02:55:01.834] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 32 DISCARDED a2ea75b5-8577-4235-9d50-501c4c3d0604
+[28Apr2025 02:55:01.835] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 31 DISCARDED dbf1047c-5773-4cad-a4f1-1fce6d5b7ab6
+[28Apr2025 02:55:02.333] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 60 DISCARDED 8db61b72-8067-4132-8685-f6dc6d19bf2a
+[28Apr2025 02:55:06.832] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 59 DISCARDED 252240ae-b205-440f-b853-e80da8fae40c
+[28Apr2025 02:55:06.899] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 58 DISCARDED 374fb9c5-a3b4-4337-8fd6-bd2ab0bd6365
+[28Apr2025 02:55:42.182] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 57 KILLED a47875fb-7070-467f-96c5-dbd7fded0b2b
+[28Apr2025 02:55:46.460] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 56 DISCARDED 04df52d8-cb48-470c-9be1-38392d9842cf
+[28Apr2025 02:55:49.015] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[28Apr2025 02:55:49.019] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[28Apr2025 02:55:49.982] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 55 KILLED 9dd29ec6-6bc9-4f49-96cd-a29e7ef8614b
+[28Apr2025 02:55:49.984] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 54 KILLED 837837f6-79d9-4677-9e36-4df4d28d75f4
+[28Apr2025 02:55:51.755] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 53 DISCARDED 768b0b7d-38b8-448a-8fd5-086052f0a7d2
+[28Apr2025 02:55:53.167] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 52 DISCARDED 213ecae3-3460-4ea2-a71c-baf9342b611f
+[28Apr2025 02:55:56.789] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 51 DISCARDED f8dc0d5e-d3a5-4729-bf11-8d7e9cf9ed07
+[28Apr2025 02:56:09.485] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 50 DISCARDED 0dd61e0b-6a6d-4f23-8883-86e2d777140c
+[28Apr2025 02:56:42.688] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[28Apr2025 02:56:42.714] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[28Apr2025 02:56:51.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind

@@ -56,8 +56,10 @@
       "field": "2025-04-26 03:39:44 +0000",
       "mediterranean_forest": "2025-04-26 01:16:27 +0000",
       "coniferous_forest": "2025-04-24 04:29:30 +0000",
+      "old_growth_dead_forest": "2025-04-28 02:50:54 +0000",
       "redwood_forest": "2025-04-26 03:18:29 +0000",
       "dune_beach": "2025-04-24 04:43:27 +0000",
+      "dead_forest": "2025-04-28 02:48:34 +0000",
       "fir_clearing": "2025-04-26 03:27:31 +0000",
       "pumpkin_patch": "2025-04-24 04:32:52 +0000",
       "prairie": "2025-04-26 03:07:43 +0000",
@@ -2011,6 +2013,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-28 02:55:12 +0000",
       "cooked_mutton": "2025-04-24 03:55:58 +0000",
       "baked_potato": "2025-04-24 04:14:36 +0000",
       "pumpkin_pie": "2025-04-26 05:10:20 +0000",
