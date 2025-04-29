@@ -2959,3 +2959,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [29Apr2025 03:57:31.652] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
 [29Apr2025 03:57:31.653] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
 [29Apr2025 04:04:11.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [The Parrots and the Bats]
+[29Apr2025 04:11:06.602] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 90011d31-4d3b-4cef-8d46-76aec896fae9
+[29Apr2025 04:11:11.849] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED ab5ce1c1-47db-42c9-8fd1-ba90ab8215ac
+[29Apr2025 04:13:46.907] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[29Apr2025 04:13:46.912] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[29Apr2025 04:16:04.050] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[29Apr2025 04:16:04.053] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[29Apr2025 04:16:13.051] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED da9f07e2-7b1c-4615-9532-0bd80062afc5
