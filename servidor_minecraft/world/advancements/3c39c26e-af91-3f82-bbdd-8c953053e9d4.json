@@ -4954,5 +4954,17 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-29 05:15:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_darkness": {
+    "criteria": {
+      "coded_trigger": "2025-04-29 05:18:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
