@@ -2966,3 +2966,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [29Apr2025 04:16:04.050] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
 [29Apr2025 04:16:04.053] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
 [29Apr2025 04:16:13.051] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED da9f07e2-7b1c-4615-9532-0bd80062afc5
+[29Apr2025 04:33:08.656] [Server thread/WARN] [tombstone/]: The death event of the player PedroZ510 was canceled by another mod
+[29Apr2025 04:33:08.658] [Server thread/INFO] [tombstone/]: The player PedroZ510 has successfully been saved
+[29Apr2025 04:33:59.603] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 2d040889-4f71-4f44-8d3a-904547044f51
+[29Apr2025 04:34:08.505] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 81d74490-a4cd-472e-b1a6-d3b3b2276b8b
+[29Apr2025 04:35:23.957] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[29Apr2025 04:35:23.964] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[29Apr2025 04:35:57.304] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED 267d0fdb-54b5-4609-969d-58de2da68425
+[29Apr2025 04:36:07.554] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[29Apr2025 04:36:07.555] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
