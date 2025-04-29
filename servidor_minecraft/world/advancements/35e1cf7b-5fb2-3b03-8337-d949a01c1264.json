@@ -4378,6 +4378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-29 04:04:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-04-29 03:28:08 +0000"
@@ -4399,6 +4405,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-04-29 03:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-29 04:04:15 +0000"
     },
     "done": true
   },
