@@ -2687,3 +2687,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [30Apr2025 01:32:36.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
 [30Apr2025 01:32:36.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [30Apr2025 01:32:36.654] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[30Apr2025 01:35:44.953] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[30Apr2025 01:35:45.005] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[30Apr2025 01:35:56.640] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[30Apr2025 01:35:56.644] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
