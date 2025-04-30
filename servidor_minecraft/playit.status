@@ -1,814 +1,3052 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745643937647 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745984889973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643940724 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984893038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643944029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984896107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643947265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984899186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643950494 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984902414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643953558 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984905591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643956751 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984908694 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643959835 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984911949 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643962912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984915041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643966033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984918282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643969324 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984921440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643972394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984924541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643975455 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984927613 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643978528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984930701 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643981607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984933798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643984699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984937053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643987767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984940221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643990841 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984943349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643993918 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984946429 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745643997101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984949527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644000195 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984953743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644003278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984956848 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644006349 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984959920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644009431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984963032 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644012503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984966220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644016244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984969329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644019305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984972395 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644022378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984975479 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644025453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984978553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644028515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984981633 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644031575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984984697 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644034656 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984987768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644037734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984990875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644040825 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984993947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644043895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745984997019 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644046972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985000089 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644050042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985003156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644053115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985006235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644056193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985009319 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644059277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985012434 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644063402 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985015509 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644066475 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985018847 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644069577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985021923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644072655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985025016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644075729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985028086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644078790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985031161 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644081935 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985034225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644085018 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985037337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644088086 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985040475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644091166 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985043586 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644094236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985046666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644097336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985049742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644100483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985053059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644103566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985056141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644106648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985059215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644109732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985062298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644112808 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985065396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644115956 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985068663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644119086 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985071743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644122153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985074815 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644125272 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985077921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644128350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985081064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644131451 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985084148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644134630 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985087224 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644137850 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985090304 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644140939 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985093375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644144027 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985096440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644147099 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985099503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644150164 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985102654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644153335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985105720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644156446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985108792 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644159510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985112022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644162638 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985115096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644165761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985118180 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644168844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985121254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644171933 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985124329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644174996 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985127397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644178096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985130463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644181162 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985133525 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644184243 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985136585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644187312 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985139649 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644190427 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985142820 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644193501 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985145882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644196581 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985148942 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644199657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985152206 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644202856 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985155280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644206057 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985158339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644209142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985161506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644212863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985164601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644215931 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985167686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644219029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985170756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644222117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985173821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644225199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985176882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644228303 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985179986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644231400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985183559 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644234483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985186656 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644237591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985189728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644240845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985192790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644243908 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985195857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644246978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985199044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644250058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985202121 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644253309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985205197 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644256371 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985208267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644259568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985211339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644262839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985214435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644266013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985217517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644269179 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985220709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644272345 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985223789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644275408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985226908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644278468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985229979 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644281540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985233043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644284664 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985236100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644287809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985239178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644290908 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985242418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644293991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985245484 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644297074 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985248542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644300140 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985251702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644303209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985254797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644306276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985257887 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644309352 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985261105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644312422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985264210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644315522 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985267280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644318595 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985270344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644321680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985273411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644324751 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985276472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644327839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985279544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644330912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985282611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644333979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985285690 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644337050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985288783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644340137 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985291846 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644343237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985294925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644346323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985298028 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644349390 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985301094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644352452 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985304153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644355522 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985307257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1745644358601 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745985310445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985313510 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985316574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985319994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985323068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985326141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985329302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985333322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985336391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985339497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985342565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985345692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985348884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985351966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985356406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985359571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985362675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985365734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985368797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985371893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985374952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985378021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985381098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985384167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985387236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985390317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985393390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985396515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985399599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985402667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985405771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985408974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985412053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985415124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985418411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985421502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985424610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985427687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985430847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985433932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985437143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985440238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985443578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985446693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985449803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985452870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985456086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985459359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985462481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985465566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985468771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985471872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985474962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985478039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985481118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985484179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985487257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985490331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985493470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985496552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985500451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985503525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985506599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985509668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985512822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985515888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985518967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985522052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985525146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985528214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985531295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985534470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985537551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985540728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985543803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985546889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985550002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985553103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985556192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985559343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985562454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985565532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985568838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985573443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985576522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985579599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985582674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985585971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985589058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985592271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985595398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985598646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985601718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985604870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985607950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985611029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985614174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985617255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985620353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985623550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985626631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985629720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985633228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985636429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985639559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985642756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985645826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985648898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985651954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985655023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985658970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985662080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985665288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985668377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985671482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985674550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985677622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985680703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985683806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985686951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985690134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985693219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985696288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985700575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985703918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985706981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985710060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985713251 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985716323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985719387 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985722552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985725636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985728702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985732286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985735357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985738432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985741515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985744598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985747674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985751002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985754094 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985757197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985760280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985763572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985766638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985769705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985773024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985776406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985779480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985782609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985785698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985789172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985792271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985795352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985798418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985801507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985804585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985807651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985810750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985813858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985817058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985820131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985823208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985826335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985829400 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985832480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985835542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985838781 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985841948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985845020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985848101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985851177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985854248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985857339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985860403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985863480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985866572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985869639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985872774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985875844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985878907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985881999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985885283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985888483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985891618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985894709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985897820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985900965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985904027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985907090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985910158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985913222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985916328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985919417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985922496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985925631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985928695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985931759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985934822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985937889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985941033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985944216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985947297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985950384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985953462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985957110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985960434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985963656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985967726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985970793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985973882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985976954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985980097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985983273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985986346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985989431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985993068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985996209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745985999307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986002394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986005525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986008590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986011919 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986014990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986018065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986021146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986024228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986027298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986030372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986033496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986036591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986039823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986042888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986045985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986049058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986052144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986055223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986058287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986061364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986064429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986067502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986070577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986073661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986076750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986079869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986082971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986086103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986089202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986092389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986095503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986098637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986101706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986104868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986108270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986111340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986114432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986117626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986120721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986123819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986126895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986130055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986133126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986136693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986139870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986142945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986146012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986149178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986152252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986155327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986158454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986161624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986164692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986167839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986170952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986174035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986177460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986180689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986183756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986186846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986189998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986193060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986196259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986199330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986202418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986205488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986208566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986211783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986215528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986218602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986221694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986224984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986228093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986231354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986234597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986237694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986240759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986244533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986248028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986251859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986254937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986258009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986261076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986264624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986267687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986270762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986273839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986276915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986280008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986283075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986286192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986289268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986292329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986295415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986298525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986301601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986304697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986307777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986310847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986313930 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986316994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986320210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986323304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986326407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986329499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986332567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986335667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986338763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986341852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986345032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986348350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986351415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986354479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986357552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986360627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986364049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986367168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986370253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986373344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986376614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986379688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986383570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986386685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986389788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986392898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986395980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986399052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986402225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986405294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986408405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986411482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986414545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986417728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986420805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986423979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986427065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986430222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986433287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986436379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986439448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986442519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986445586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986448647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986451726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986454797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986457935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986461003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986464073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986467152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986470299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986473368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986476438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986480161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986483233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+week-specifics.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+reply-universe.gl.at.ply.gg:1411 => 127.0.0.1:1411 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1745986486295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
