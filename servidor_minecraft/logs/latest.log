@@ -4004,3 +4004,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:zerkalo_scope'
 [30Apr2025 03:15:50.492] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
 [30Apr2025 03:16:06.888] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
 [30Apr2025 03:16:06.895] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[30Apr2025 03:18:32.736] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED b5afb252-1002-4515-b8d4-1a7bee01ad38
+[30Apr2025 03:19:14.738] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 48ea360b-7640-494e-8a32-d0150bbd707d
+[30Apr2025 03:23:02.135] [Server thread/WARN] [tombstone/]: The death event of the player PedroZ510 was canceled by another mod
+[30Apr2025 03:23:02.143] [Server thread/INFO] [tombstone/]: The player PedroZ510 has successfully been saved
+[30Apr2025 03:25:28.784] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED dd30132a-8f4a-44a0-a264-f73f352e9d6a
+[30Apr2025 03:25:56.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PedroZ510 lost connection: Disconnected
+[30Apr2025 03:25:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 left the game
+[30Apr2025 03:25:56.139] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PedroZ510
