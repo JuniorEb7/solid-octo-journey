@@ -4770,6 +4770,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-05-01 16:06:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
@@ -4805,6 +4811,12 @@
       "has_iron_nugget": "2025-05-01 15:23:19 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-05-01 16:06:06 +0000"
+    },
+    "done": false
   },
   "additionalguns:recipes/additionalguns/vintorez_stock": {
     "criteria": {
