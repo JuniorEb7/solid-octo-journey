@@ -3560,3 +3560,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [01May2025 16:34:07.998] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
 [01May2025 16:34:07.999] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [01May2025 16:34:08.000] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[01May2025 16:38:24.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PedroZ510 lost connection: Disconnected
+[01May2025 16:38:24.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 left the game
+[01May2025 16:38:24.738] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PedroZ510
+[01May2025 16:38:29.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical lost connection: Disconnected
+[01May2025 16:38:29.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical left the game
+[01May2025 16:38:29.881] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Criitiical
+[01May2025 16:38:29.991] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 UNLOADED_TO_CHUNK d7f10958-b322-439a-89f9-51a566fca744
+[01May2025 16:38:29.991] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 729257a3-3dcc-4024-9916-4c7b9bd6d738
+[01May2025 16:38:43.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01May2025 16:38:43.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01May2025 16:38:43.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01May2025 16:38:43.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01May2025 16:38:43.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01May2025 16:38:44.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01May2025 16:38:44.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01May2025 16:38:44.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01May2025 16:38:44.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01May2025 16:38:44.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01May2025 16:38:44.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01May2025 16:38:44.099] [Server thread/INFO] [Framework/]: Unloading server configs...
+[01May2025 16:38:44.100] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[01May2025 16:38:44.102] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: Loading undeadnights server config
+[01May2025 16:38:44.102] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
