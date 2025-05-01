@@ -1437,6 +1437,7 @@
       "cold_desert": "2025-04-22 04:06:39 +0000",
       "old_growth_woodland": "2025-04-26 01:16:10 +0000",
       "maple_woods": "2025-04-26 04:17:02 +0000",
+      "crystalline_chasm": "2025-05-01 16:08:39 +0000",
       "orchard": "2025-04-26 00:53:23 +0000",
       "field": "2025-04-28 03:32:04 +0000",
       "overgrown_greens": "2025-04-29 03:20:56 +0000",
@@ -4734,6 +4735,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-01 16:15:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-01 16:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
@@ -4755,6 +4768,12 @@
   "additionalguns:recipes/additionalguns/casing_small": {
     "criteria": {
       "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/chain_armor": {
+    "criteria": {
+      "requirement": "2025-05-01 16:10:55 +0000"
     },
     "done": true
   },
@@ -4884,6 +4903,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-05-01 16:08:45 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_long": {
     "criteria": {
       "has_iron_nugget": "2025-05-01 15:23:19 +0000"
@@ -4920,6 +4945,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-01 16:15:19 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_short": {
     "criteria": {
       "has_iron_nugget": "2025-05-01 15:23:19 +0000"
@@ -4935,6 +4966,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-05-01 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-01 16:16:46 +0000"
     },
     "done": true
   },
