@@ -5254,6 +5254,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-01 16:36:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-01 15:22:57 +0000"
@@ -5278,9 +5284,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-05-01 16:27:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-05-01 15:24:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-01 16:36:05 +0000"
     },
     "done": true
   },
@@ -5317,6 +5335,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-05-01 16:02:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-01 16:31:08 +0000"
     },
     "done": true
   },
@@ -5365,6 +5389,12 @@
   "tombstone:adventure/revive_familiar": {
     "criteria": {
       "coded_trigger": "2025-05-01 15:03:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-05-01 16:36:00 +0000"
     },
     "done": true
   },
