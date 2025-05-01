@@ -5260,6 +5260,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/chain_armor": {
+    "criteria": {
+      "requirement": "2025-05-01 16:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-05-01 15:31:14 +0000"
@@ -5311,6 +5317,12 @@
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-05-01 16:02:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-01 16:23:41 +0000"
     },
     "done": true
   },
