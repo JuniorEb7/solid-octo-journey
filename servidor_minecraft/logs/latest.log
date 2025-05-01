@@ -2996,3 +2996,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [01May2025 15:12:21.381] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 729257a3-3dcc-4024-9916-4c7b9bd6d738
 [01May2025 15:13:55.834] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
 [01May2025 15:13:55.837] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[01May2025 15:20:32.835] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[01May2025 15:20:32.838] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[01May2025 15:22:20.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Those Were the Days]
+[01May2025 15:22:23.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Those Were the Days]
+[01May2025 15:23:18.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [War Pigs]
+[01May2025 15:24:14.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [War Pigs]
