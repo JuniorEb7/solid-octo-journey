@@ -4672,9 +4672,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-01 15:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-01 15:33:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-01 15:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-01 15:33:27 +0000"
     },
     "done": true
   },
@@ -4744,6 +4768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-01 15:37:32 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/sniper_muzzle_brake": {
     "criteria": {
       "has_iron_nugget": "2025-05-01 15:23:19 +0000"
@@ -4774,6 +4804,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-01 15:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-01 15:23:20 +0000"
@@ -4795,6 +4831,12 @@
   "cgm:recipes/combat/weighted_stock": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-01 15:33:27 +0000"
     },
     "done": true
   },
@@ -4855,6 +4897,12 @@
   "cgm:recipes/combat/light_stock": {
     "criteria": {
       "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-01 15:33:08 +0000"
     },
     "done": true
   },
