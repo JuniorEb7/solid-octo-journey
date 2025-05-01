@@ -973,6 +973,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-22 04:19:13 +0000",
       "minecraft:ghast": "2025-04-29 04:45:56 +0000",
+      "minecraft:hoglin": "2025-05-01 15:30:27 +0000",
       "minecraft:spider": "2025-04-20 17:51:14 +0000",
       "minecraft:piglin_brute": "2025-04-29 04:46:37 +0000",
       "minecraft:creeper": "2025-04-20 17:48:09 +0000",
@@ -4665,6 +4666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-01 15:27:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
@@ -4689,9 +4696,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-01 15:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_small": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-01 15:24:39 +0000"
     },
     "done": true
   },
@@ -4701,9 +4732,99 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-01 15:23:18 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/sniper_muzzle_brake": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_medium": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/vintorez_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-01 15:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-01 15:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-01 15:24:38 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_heavy": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/basic_stock": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_long": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-01 15:27:18 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_special": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
     },
     "done": true
   },
@@ -4713,9 +4834,63 @@
     },
     "done": true
   },
+  "cgm:recipes/combat/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-01 15:21:30 +0000"
+    },
+    "done": true
+  },
+  "additionalguns:recipes/additionalguns/casing_short": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-01 15:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-01 15:26:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-05-01 15:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 15:22:23 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/combat/long_scope": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-01 15:23:19 +0000"
     },
     "done": true
   },
