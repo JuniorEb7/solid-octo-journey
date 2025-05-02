@@ -4758,3 +4758,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [02May2025 03:40:00.372] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
 [02May2025 03:40:53.804] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED ffe8dd99-04a9-4a97-a805-302e2f1ae6b7
 [02May2025 03:40:56.053] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED a20dccb7-4b01-4c0e-be7b-54d375ad4b33
+[02May2025 03:44:54.370] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 03:44:54.370] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:44:54.370] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 03:44:54.559] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 03:44:54.559] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:44:54.559] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 03:46:36.255] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED 94a1530d-d27b-48dc-baf5-0ed814ae5426
+[02May2025 03:46:48.706] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED f1e8b441-08f2-4633-b16b-4fddcdc4a3c0
+[02May2025 03:49:25.194] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 03:49:25.195] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:49:25.196] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
