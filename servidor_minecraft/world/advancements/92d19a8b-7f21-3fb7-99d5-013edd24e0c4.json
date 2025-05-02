@@ -1786,6 +1786,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-22 04:02:13 +0000",
       "minecraft:spider": "2025-04-22 04:51:53 +0000",
+      "minecraft:piglin_brute": "2025-05-02 02:06:33 +0000",
       "minecraft:creeper": "2025-04-22 04:04:30 +0000",
       "minecraft:slime": "2025-04-26 01:14:26 +0000",
       "minecraft:phantom": "2025-04-22 05:50:57 +0000",
@@ -5040,6 +5041,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-02 01:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-02 02:17:04 +0000"
     },
     "done": true
   },
