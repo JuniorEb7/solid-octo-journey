@@ -5702,6 +5702,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 03:34:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2025-05-02 03:28:28 +0000"
@@ -5882,6 +5888,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-02 03:38:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-02 02:25:26 +0000"
@@ -5906,15 +5918,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 03:34:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 03:34:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-05-02 02:18:34 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-05-02 03:34:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-05-02 03:28:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 03:34:23 +0000"
     },
     "done": true
   },

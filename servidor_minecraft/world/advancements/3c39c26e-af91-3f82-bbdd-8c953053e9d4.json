@@ -5798,6 +5798,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-02 03:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-02 02:42:21 +0000"
@@ -5813,6 +5819,12 @@
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-05-02 02:12:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-05-02 03:31:38 +0000"
     },
     "done": true
   },
