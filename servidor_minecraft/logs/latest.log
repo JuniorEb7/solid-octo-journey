@@ -4827,3 +4827,87 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [02May2025 04:01:16.823] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
 [02May2025 04:01:16.823] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [02May2025 04:01:16.823] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 04:03:10.503] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 77eff2e2-4533-4970-8261-65b23dd02587
+[02May2025 04:05:08.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3c39c26e-af91-3f82-bbdd-8c953053e9d4 timed out
+[02May2025 04:05:08.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Criitiical
+[02May2025 04:05:08.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Criitiical
+[02May2025 04:05:08.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 35e1cf7b-5fb2-3b03-8337-d949a01c1264 timed out
+[02May2025 04:05:08.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player PedroZ510
+[02May2025 04:05:08.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to PedroZ510
+[02May2025 04:05:19.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PedroZ510 lost connection: Timed out
+[02May2025 04:05:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 left the game
+[02May2025 04:05:19.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PedroZ510
+[02May2025 04:05:19.355] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 04:05:22.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical lost connection: Timed out
+[02May2025 04:05:22.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical left the game
+[02May2025 04:05:22.358] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Criitiical
+[02May2025 04:05:22.458] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 UNLOADED_TO_CHUNK d7f10958-b322-439a-89f9-51a566fca744
+[02May2025 04:05:22.458] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 729257a3-3dcc-4024-9916-4c7b9bd6d738
+[02May2025 04:05:42.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Criitiical[/127.222.152.168:58569] logged in with entity id 49968 at (1259.5288332808484, 85.0, -1114.4599224821209)
+[02May2025 04:05:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical joined the game
+[02May2025 04:05:42.269] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.269] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.269] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 04:05:42.269] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 04:05:42.270] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 04:05:42.271] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:42.272] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 04:05:42.272] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 04:05:42.272] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 04:05:42.514] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Criitiical (18)
+[02May2025 04:05:42.514] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Criitiical
+[02May2025 04:05:44.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3c39c26e-af91-3f82-bbdd-8c953053e9d4
+[02May2025 04:05:45.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3c39c26e-af91-3f82-bbdd-8c953053e9d4
+[02May2025 04:05:45.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Criitiical (3c39c26e-af91-3f82-bbdd-8c953053e9d4) successfully connected to voice chat
+[02May2025 04:05:49.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PedroZ510[/127.82.49.5:35605] logged in with entity id 50168 at (1257.771251082196, 83.0, -1115.4599352851315)
+[02May2025 04:05:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 joined the game
+[02May2025 04:05:49.377] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.377] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.377] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 04:05:49.377] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 04:05:49.377] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.378] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 04:05:49.379] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 04:05:49.635] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PedroZ510 (18)
+[02May2025 04:05:49.636] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PedroZ510
+[02May2025 04:05:53.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 35e1cf7b-5fb2-3b03-8337-d949a01c1264
+[02May2025 04:05:54.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 35e1cf7b-5fb2-3b03-8337-d949a01c1264
+[02May2025 04:05:54.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PedroZ510 (35e1cf7b-5fb2-3b03-8337-d949a01c1264) successfully connected to voice chat
