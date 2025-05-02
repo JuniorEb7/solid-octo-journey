@@ -4342,3 +4342,124 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [02May2025 03:01:15.703] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 KILLED 80cd91c3-cf54-48eb-85aa-e163edc5bed7
 [02May2025 03:01:20.605] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 KILLED 7c998f1a-06b4-473c-953a-2fcb49cbd310
 [02May2025 03:01:34.955] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 DISCARDED 7a01a55c-549e-459a-8968-520b4b77869f
+[02May2025 03:01:45.157] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 KILLED fae72f9f-41b8-4623-bb1a-bf4de9c659cc
+[02May2025 03:01:51.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuniorEb7: Set own game mode to Survival Mode]
+[02May2025 03:02:08.604] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 KILLED a95616a5-49ac-48f5-8c4a-09823ebb16f3
+[02May2025 03:02:21.404] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 KILLED b2da7add-9165-44d5-b7b0-c187f88cf920
+[02May2025 03:02:28.553] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 KILLED 2bd12dee-85cc-4a4d-ac63-95751c92aebd
+[02May2025 03:02:39.553] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 KILLED 9c73a62d-748a-4122-9925-50f4836557b0
+[02May2025 03:02:47.853] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 KILLED c2c42b30-e4ab-41fc-80d8-258d05f76dfa
+[02May2025 03:03:03.813] [Server thread/WARN] [tombstone/]: The death event of the player JuniorEb7 was canceled by another mod
+[02May2025 03:03:03.821] [Server thread/INFO] [tombstone/]: The player JuniorEb7 has successfully been saved
+[02May2025 03:03:04.854] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 KILLED 305045b8-134a-4bcb-8b0c-ac5cc3aa5e8f
+[02May2025 03:04:12.812] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[02May2025 03:04:12.813] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[02May2025 03:04:34.502] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 KILLED 864919a1-8fa8-4015-b7b8-b8b301325680
+[02May2025 03:05:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 has made the advancement [Ambush]
+[02May2025 03:05:52.653] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 25592b81-e757-4a1f-8706-17b3cad01b35
+[02May2025 03:07:52.756] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 47 DISCARDED 302614b7-e34e-4e9f-88a2-a84d79076c6a
+[02May2025 03:07:55.211] [Server thread/WARN] [tombstone/]: The death event of the player JuniorEb7 was canceled by another mod
+[02May2025 03:07:55.214] [Server thread/INFO] [tombstone/]: The player JuniorEb7 has successfully been saved
+[02May2025 03:08:18.457] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 46 KILLED 73671f2c-5c21-41ee-ab86-46212ad0dc74
+[02May2025 03:08:19.807] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 45 KILLED e8f0ff59-44e7-43c0-9736-ed80d59e2cab
+[02May2025 03:08:23.615] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 44 DISCARDED 9ef2465f-5898-4381-b733-19a220d40d45
+[02May2025 03:08:28.307] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 43 KILLED 23c3e259-408a-4a59-9649-25e491c6b39e
+[02May2025 03:08:31.155] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 42 KILLED 133d2931-695c-409f-bafb-fb465931a8be
+[02May2025 03:08:32.554] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 41 DISCARDED 19abd6d3-03ac-4157-afe7-08a518766bdf
+[02May2025 03:08:33.919] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 40 DISCARDED 5588e637-20c5-4869-9601-c661ebd1f59b
+[02May2025 03:08:41.008] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 39 KILLED 256f51a9-6262-45e7-9dea-68733ab0b9ab
+[02May2025 03:08:42.026] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 38 KILLED 2a522873-2fe2-4fcf-a616-d0e39d99ac0b
+[02May2025 03:08:43.068] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 37 KILLED c6a1f877-123f-40ac-9354-535315c54160
+[02May2025 03:08:44.065] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 36 KILLED fed8cf0c-dda4-49a5-8c38-2e0d30b1227a
+[02May2025 03:08:45.553] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 35 KILLED 7a3a23d9-f936-4d8d-8c71-4fd936542846
+[02May2025 03:08:49.466] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 34 KILLED 19b88344-e6e1-4cd5-b99c-fbef37d182c0
+[02May2025 03:08:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 has reached the goal [Strong or Careful]
+[02May2025 03:08:55.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuniorEb7 was slain by Horde Zombie
+[02May2025 03:08:56.006] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 33 KILLED d7fc8dbf-39e1-4809-9a8b-dd3cbf5d04e1
+[02May2025 03:08:57.604] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 32 KILLED 1a034d2c-4a98-4b35-8371-f348c37dbfac
+[02May2025 03:09:03.769] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 31 KILLED da896114-d10b-42ad-b713-75076b20070d
+[02May2025 03:09:10.905] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 30 KILLED 91176e34-552e-4b08-9ce6-ea520c13b6b5
+[02May2025 03:09:11.824] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 29 KILLED ec77cc2d-5b2e-4552-92cd-e55c9b1ac99e
+[02May2025 03:09:19.202] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 28 DISCARDED 0855c4f2-fac9-4727-8dee-6a5e30daa431
+[02May2025 03:09:22.554] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 27 DISCARDED 2a788320-c1b1-4ad5-abb2-4b65c74c6b08
+[02May2025 03:09:24.653] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 26 KILLED 317e494b-e793-4bd3-bd9b-78b4d9460871
+[02May2025 03:09:26.914] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 25 KILLED 6c2a81fc-2851-4bb6-81d9-28db50b0a295
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 03:09:29.863] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 03:09:29.864] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.865] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 03:09:29.865] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:09:29.865] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 03:09:29.891] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.891] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.891] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.892] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 03:09:29.893] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 03:09:35.811] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 24 DISCARDED 26189503-52d3-4fb6-85f5-3bb4b30c662a
+[02May2025 03:09:38.854] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 23 DISCARDED 5a7e09c5-ba56-4c70-acc1-cac061f3b1a4
+[02May2025 03:09:44.706] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 22 KILLED 757e65da-001a-450f-ae05-56ba670dea27
+[02May2025 03:09:46.055] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 21 KILLED 8a2e3e51-f4f1-4141-8d0a-c3a1be31dc22
+[02May2025 03:09:49.307] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 20 KILLED b8cb3ccb-d96e-4d69-810c-23de598392dc
+[02May2025 03:09:51.555] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 19 KILLED e9631d31-8f19-4f8e-9b3c-9a5e3af461a4
+[02May2025 03:09:56.905] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 18 KILLED 6a7a1cf3-a18e-4a52-be48-bd2685351929
+[02May2025 03:10:04.554] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 KILLED 5b2d04bd-3bb7-4858-9990-60a204b6f80d
+[02May2025 03:10:06.404] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 KILLED c7e1cea2-531f-43f2-9dd7-1287ab1a1913
+[02May2025 03:10:08.653] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 KILLED d923979d-093a-42fd-92e2-7eb0ec6b41ec
+[02May2025 03:10:09.807] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 KILLED 9b838061-f449-43d4-b1d9-454c7aa6e52e
+[02May2025 03:10:11.004] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 KILLED 5b83a32e-980e-42e5-ad29-910132fb7d88
+[02May2025 03:10:11.922] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:10:11.922] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 03:10:11.922] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 03:10:13.654] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 KILLED bc93e206-b31d-4b7f-80c7-ee82207719a6
+[02May2025 03:10:15.455] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 KILLED 53c88d02-4920-4db6-b8be-81e4e81387d1
+[02May2025 03:10:19.405] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 KILLED d62af82a-7238-4eb0-a3e5-9315a5052039
+[02May2025 03:10:23.505] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 KILLED f8914310-3125-437e-93ff-100d0c2cbbfc
+[02May2025 03:10:24.154] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 KILLED b769c6a3-df17-4ef9-8553-d4a092160f2b
+[02May2025 03:10:26.353] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 KILLED 203a9e6a-d1cd-475a-931f-911360af07e3
+[02May2025 03:11:15.146] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[02May2025 03:11:15.161] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[02May2025 03:11:26.954] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 DISCARDED 698f2e00-3ca7-40fe-98da-92a404d77216
+[02May2025 03:11:36.003] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 DISCARDED 214db658-9d33-4445-a0f9-86a299898962
