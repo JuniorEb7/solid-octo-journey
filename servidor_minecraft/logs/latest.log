@@ -3918,3 +3918,101 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [02May2025 02:20:25.325] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
 [02May2025 02:20:25.325] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
 [02May2025 02:20:25.325] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 02:22:43.150] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.150] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 02:22:43.151] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 02:22:43.152] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 02:23:45.826] [Server thread/INFO] [Easy NPC/]: Opening menu 5d4dcf86-a881-4948-b7ee-8f855acc2d63 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[02May2025 02:23:47.120] [Server thread/INFO] [Easy NPC/]: Opening menu 794f768a-66a0-4f88-a61e-7d0dfe2281c6 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[02May2025 02:24:18.442] [Server thread/INFO] [Easy NPC/]: Opening menu 9554eb1b-b84d-4763-863b-c479f19fc0c4 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[02May2025 02:24:19.443] [Server thread/INFO] [Easy NPC/]: Opening menu cdba14b2-3583-4799-a930-f17fcefea014 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[02May2025 02:24:34.221] [Server thread/INFO] [Easy NPC/]: Opening menu c583b448-1890-4121-952b-f0b90454a24c for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[02May2025 02:24:35.242] [Server thread/INFO] [Easy NPC/]: Opening menu f0f81b34-c1a7-42f6-91af-937e63850845 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[02May2025 02:25:34.515] [Server thread/WARN] [tombstone/]: The death event of the player Criitiical was canceled by another mod
+[02May2025 02:25:34.517] [Server thread/INFO] [tombstone/]: The player Criitiical has successfully been saved
+[02May2025 02:25:44.021] [Server thread/INFO] [Easy NPC/]: Opening menu 41568bc0-b4cf-4bab-8bbe-66c2f5e88416 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[02May2025 02:25:45.141] [Server thread/INFO] [Easy NPC/]: Opening menu 856129ee-3f07-4ad8-b39b-73c5c4412cb4 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[02May2025 02:25:48.923] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.923] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.923] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 02:25:48.923] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 02:25:48.923] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 02:25:48.924] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 02:25:48.925] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 02:25:57.574] [Server thread/INFO] [Easy NPC/]: Opening menu 88eda661-db02-4878-971b-a27d8abbd990 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[02May2025 02:25:59.039] [Server thread/INFO] [Easy NPC/]: Opening menu f113b745-ba6a-48cc-9ed9-47d40f986fb6 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[02May2025 02:26:47.256] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 DISCARDED 5f14f5f6-7495-4650-ab41-ba29170be17a
+[02May2025 02:27:03.620] [Server thread/INFO] [Easy NPC/]: Opening menu 1e6f4adc-698b-40b2-8b09-820187ddf313 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[02May2025 02:27:04.934] [Server thread/INFO] [Easy NPC/]: Opening menu 9a1dd11a-cab3-4b06-89e4-1028ba9fd4d4 for npc 75d21756-600f-4ce2-85a9-e5b96252e25a and player ServerPlayer['JuniorEb7'/11746, l='ServerLevel[world]', x=1135.07, y=72.00, z=-1072.62] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[entity.easy_npc.]}]
+[02May2025 02:30:25.074] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.074] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.074] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[02May2025 02:30:25.075] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[02May2025 02:30:25.075] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[02May2025 02:30:25.075] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[02May2025 02:30:25.076] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.077] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[02May2025 02:30:25.077] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[02May2025 02:30:25.077] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[02May2025 02:30:25.077] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[02May2025 02:30:25.077] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[02May2025 02:30:25.077] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[02May2025 02:30:33.365] [Server thread/WARN] [tombstone/]: The death event of the player PedroZ510 was canceled by another mod
+[02May2025 02:30:33.368] [Server thread/INFO] [tombstone/]: The player PedroZ510 has successfully been saved
