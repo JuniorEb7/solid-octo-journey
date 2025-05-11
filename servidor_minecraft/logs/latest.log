@@ -3927,3 +3927,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [11May2025 05:28:05.617] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 17 DISCARDED fe905004-eff5-4251-8c1c-5cb1f1998110
 [11May2025 05:28:05.966] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 16 KILLED 292b9c43-20e5-4323-98a7-6064e3854871
 [11May2025 05:28:06.565] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 15 KILLED a956361e-3dd0-4f54-94b4-771a8172b6dd
+[11May2025 05:28:20.079] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 14 KILLED e93d38e8-a27e-4bea-83f2-8b568785b419
+[11May2025 05:28:21.068] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 13 KILLED 40d56ef6-53c6-4b54-b530-497c3b361b8e
+[11May2025 05:28:29.466] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 12 KILLED 2d114091-97f1-4f69-9617-8a936a51476c
+[11May2025 05:28:29.466] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 11 KILLED 146de584-5518-48d1-a9e2-cf2eeed5b765
+[11May2025 05:28:29.466] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 10 KILLED cddf5172-2679-4edb-9000-99ef0b66fc56
+[11May2025 05:28:29.466] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 9 KILLED 009b311b-f833-404f-afa4-ba78b962322e
+[11May2025 05:28:37.916] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 8 KILLED e12e38bb-5da8-421f-b9fc-ea2047816668
+[11May2025 05:28:41.265] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 7 KILLED 062bfe70-e244-4e9d-8315-0ebbe0d874de
+[11May2025 05:28:41.566] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 6 KILLED e3572305-b83f-413f-97f6-fcfd21ca09ef
+[11May2025 05:28:41.915] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 5 KILLED e36efac7-43f9-448b-b627-a1ae7484da1d
+[11May2025 05:28:42.667] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 4 KILLED aac98d34-9c09-4f0e-b2c2-365a5162abfc
+[11May2025 05:28:49.970] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 DISCARDED 8fe4daf3-ae48-4285-8b21-bdfca0079229
+[11May2025 05:28:54.617] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 9e514dbe-c800-40fc-a9f6-a6800cd2160a
+[11May2025 05:29:19.067] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED 931c3f68-a363-41f3-a731-ffdd01beee1e
+[11May2025 05:29:24.816] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 503717d5-c6e5-4a1d-8dd0-6b4912c72475
+[11May2025 05:33:31.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3c39c26e-af91-3f82-bbdd-8c953053e9d4 timed out
+[11May2025 05:33:31.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Criitiical
+[11May2025 05:33:31.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Criitiical
+[11May2025 05:33:38.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical lost connection: Disconnected
+[11May2025 05:33:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical left the game
+[11May2025 05:33:38.725] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Criitiical
+[11May2025 05:33:38.793] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 05:34:53.128] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48f306b1[id=<null>,name=Criitiical,properties={},legacy=false] (/127.88.6.173:33537) lost connection: Disconnected
+[11May2025 05:40:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Magic Writing]
+[11May2025 05:40:58.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Criitiical[/127.88.6.173:35465] logged in with entity id 39657 at (9972.07796476116, 62.863390575230184, 221.2956377898447)
+[11May2025 05:40:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical joined the game
+[11May2025 05:40:58.498] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.498] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaa2 doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aw:awa doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat ada:aaaa doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ffg doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat adad:aaaa doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aafg doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cast_time_reduction doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_power doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:cooldown_reduction doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:max_mana doesn't exist
+[11May2025 05:40:58.499] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat irons_spellbooks:spell_resist doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat projectile_damage:impact doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:dd doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat epicfight:staminar doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaaa:aaaa doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:40:58.500] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaas doesn't exist
+[11May2025 05:40:58.501] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:ddd doesn't exist
+[11May2025 05:40:58.501] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aasssa doesn't exist
+[11May2025 05:40:58.968] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Criitiical (18)
+[11May2025 05:40:58.969] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Criitiical
+[11May2025 05:41:03.005] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3c39c26e-af91-3f82-bbdd-8c953053e9d4
+[11May2025 05:41:04.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3c39c26e-af91-3f82-bbdd-8c953053e9d4
+[11May2025 05:41:04.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Criitiical (3c39c26e-af91-3f82-bbdd-8c953053e9d4) successfully connected to voice chat
+[11May2025 05:43:14.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40265, l='ServerLevel[world]', x=9692.37, y=68.00, z=45.72] died, message: 'Villager suffocated in a wall'
+[11May2025 05:43:46.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40320, l='ServerLevel[world]', x=9624.37, y=66.00, z=22.07] died, message: 'Villager suffocated in a wall'
+[11May2025 05:45:54.022] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 3 KILLED 8d3cad73-64f9-4cd3-b119-01a031b24cdc
+[11May2025 05:45:56.976] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 1c0f7ae7-caba-428f-a5a9-fb8492b0c3b4
+[11May2025 05:46:13.125] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 258a2756-4ccc-41f0-9d3e-d85f2203fef6
+[11May2025 05:47:11.568] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 22a2bf6a-d0bb-45c8-a13e-b0d0e42064f4
+[11May2025 05:48:15.573] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PedroZ510 lost connection: Disconnected
+[11May2025 05:48:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 left the game
+[11May2025 05:48:15.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PedroZ510
+[11May2025 05:48:16.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Criitiical lost connection: Disconnected
+[11May2025 05:48:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical left the game
+[11May2025 05:48:16.920] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Criitiical
+[11May2025 05:48:17.021] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 UNLOADED_TO_CHUNK d7f10958-b322-439a-89f9-51a566fca744
+[11May2025 05:48:17.021] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 UNLOADED_TO_CHUNK 729257a3-3dcc-4024-9916-4c7b9bd6d738
