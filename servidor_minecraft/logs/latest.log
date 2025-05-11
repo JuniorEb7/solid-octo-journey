@@ -3222,3 +3222,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [11May2025 16:41:48.397] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED d22d10d9-5bee-4386-91ae-b18a66c83a88
 [11May2025 16:44:47.695] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 3087685a-f778-486a-8414-82b068d20339
 [11May2025 16:48:53.593] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED 77274111-1796-41cb-a0ea-ab63d6dc2f86
+[11May2025 16:52:58.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Who is Cutting Onions?]
