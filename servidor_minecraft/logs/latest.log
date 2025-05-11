@@ -3587,3 +3587,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'additionalguns:aks74u'
 [11May2025 04:46:43.372] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 2 KILLED fe7182d0-ddb9-42a4-b9c3-b5ee10798ffb
 [11May2025 04:46:52.026] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 KILLED ebe87408-5af1-4e2a-bfa9-8bab4f5a71ec
 [11May2025 04:46:54.322] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 KILLED 1cee0f4d-a0f6-4994-b9f0-e88bb3ac83a1
+[11May2025 04:51:42.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [My Name is Nobody]
+[11May2025 04:56:16.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Surfer Rosa]
+[11May2025 05:00:35.736] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[11May2025 05:00:41.068] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:00:41.068] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat modid:attribute doesn't exist
+[11May2025 05:00:41.068] [Server thread/INFO] [net.felinamods.epicstatsmodremastered.EpicStatsModRemasteredMod/]: The attribute for stat aaa:aaaa doesn't exist
+[11May2025 05:02:43.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9611, y=65, z=-570} BlockPos{x=9612, y=63, z=-570}
+[11May2025 05:02:43.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9611, y=65, z=-570} BlockPos{x=9612, y=63, z=-570}
+[11May2025 05:02:43.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9611, y=65, z=-570} BlockPos{x=9612, y=63, z=-570}
+[11May2025 05:02:43.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9611, y=65, z=-569} BlockPos{x=9612, y=63, z=-570}
+[11May2025 05:02:43.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9611, y=65, z=-569} BlockPos{x=9612, y=63, z=-570}
+[11May2025 05:02:44.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9616, y=65, z=-563} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:44.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9616, y=65, z=-563} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:45.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9617, y=65, z=-562} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:45.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9618, y=65, z=-562} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:45.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9617, y=66, z=-562} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:45.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9618, y=66, z=-562} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:45.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9618, y=66, z=-562} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:45.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9618, y=66, z=-562} BlockPos{x=9617, y=63, z=-563}
+[11May2025 05:02:49.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9630, y=65, z=-545} BlockPos{x=9631, y=63, z=-544}
+[11May2025 05:02:49.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9631, y=65, z=-542} BlockPos{x=9632, y=63, z=-541}
+[11May2025 05:02:49.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9631, y=65, z=-542} BlockPos{x=9632, y=63, z=-541}
+[11May2025 05:02:49.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9631, y=65, z=-542} BlockPos{x=9632, y=63, z=-541}
+[11May2025 05:02:49.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9631, y=65, z=-542} BlockPos{x=9632, y=63, z=-541}
+[11May2025 05:02:52.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9644, y=64, z=-536} BlockPos{x=9645, y=62, z=-535}
+[11May2025 05:02:52.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9644, y=64, z=-536} BlockPos{x=9645, y=62, z=-535}
+[11May2025 05:02:52.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9644, y=64, z=-536} BlockPos{x=9645, y=62, z=-535}
+[11May2025 05:03:37.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9796, y=66, z=-615} BlockPos{x=9796, y=65, z=-616}
+[11May2025 05:03:37.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9796, y=66, z=-615} BlockPos{x=9796, y=65, z=-616}
+[11May2025 05:03:37.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9796, y=66, z=-615} BlockPos{x=9796, y=65, z=-616}
+[11May2025 05:03:38.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9791, y=65, z=-614} BlockPos{x=9792, y=63, z=-613}
+[11May2025 05:03:38.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9791, y=65, z=-614} BlockPos{x=9792, y=63, z=-613}
+[11May2025 05:03:39.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9796, y=67, z=-616} BlockPos{x=9796, y=65, z=-616}
+[11May2025 05:03:39.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9796, y=67, z=-616} BlockPos{x=9796, y=65, z=-616}
+[11May2025 05:03:41.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9800, y=67, z=-619} BlockPos{x=9801, y=65, z=-620}
+[11May2025 05:03:43.926] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED e812fbec-8613-4d64-aeaa-364d786803cc
+[11May2025 05:03:51.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9843, y=70, z=-633} BlockPos{x=9844, y=68, z=-633}
+[11May2025 05:05:58.820] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 1 DISCARDED 6b9be44b-e33a-4403-bc4b-e10f22c382c8
+[11May2025 05:06:31.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Criitiical has made the advancement [Battle Towers?]
+[11May2025 05:06:36.018] [Server thread/INFO] [net.petemc.undeadnights.UndeadNights/]: UNLOAD GlobalSpawnCount: 0 DISCARDED 8bf0947c-715a-4e6e-9825-0d47a1d32cff
+[11May2025 05:06:54.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroZ510 has made the advancement [Battle Towers?]
